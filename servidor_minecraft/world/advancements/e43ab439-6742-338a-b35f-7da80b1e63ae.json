@@ -6160,5 +6160,11 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/xp_pump_upgrade": {
+    "criteria": {
+      "has_the_recipe": "2025-07-30 02:39:33 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
