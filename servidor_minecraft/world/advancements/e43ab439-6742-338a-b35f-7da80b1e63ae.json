@@ -6160,9 +6160,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_deepslate_copper_ore": {
+    "criteria": {
+      "has_deepslate_copper_ore": "2025-07-30 02:50:13 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/xp_pump_upgrade": {
     "criteria": {
       "has_the_recipe": "2025-07-30 02:39:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_deepslate_copper_ore": {
+    "criteria": {
+      "has_deepslate_copper_ore": "2025-07-30 02:50:13 +0000"
     },
     "done": true
   },
