@@ -316,3 +316,21 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [30Jul2025 02:55:56.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> XDDDDDDDDDDDDD
 [30Jul2025 02:55:59.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> XDDDDDDDD
 [30Jul2025 02:56:04.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> 1 esmeralda 1 botella de xp
+[30Jul2025 02:59:13.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> mira men
+[30Jul2025 03:01:23.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> men?
+[30Jul2025 03:02:23.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> estas abajo?
+[30Jul2025 03:04:10.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> MEN?
+[30Jul2025 03:04:16.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> mande
+[30Jul2025 03:04:24.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> mira
+[30Jul2025 03:04:30.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> antas
+[30Jul2025 03:04:31.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> XD
+[30Jul2025 03:04:35.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> XDDDDD
+[30Jul2025 03:04:36.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> waos
+[30Jul2025 03:04:45.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> menos que las mias pero god
+[30Jul2025 03:04:50.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> :v
+[30Jul2025 03:05:06.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> proximamente granja de oro
+[30Jul2025 03:05:07.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> XDDDD
+[30Jul2025 03:05:17.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> XD
+[30Jul2025 03:08:57.219] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1875, y=0, z=2882} BlockPos{x=-1877, y=-2, z=2884}
+[30Jul2025 03:08:57.917] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1874, y=-1, z=2882} BlockPos{x=-1874, y=-2, z=2881}
+[30Jul2025 03:09:07.026] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1874, y=1, z=2876} BlockPos{x=-1874, y=0, z=2875}

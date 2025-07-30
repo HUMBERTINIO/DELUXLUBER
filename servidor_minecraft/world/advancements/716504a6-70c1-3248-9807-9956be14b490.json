@@ -4271,5 +4271,17 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/skyroot_planks": {
+    "criteria": {
+      "has_logs": "2025-07-30 03:05:36 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/skyroot_wood": {
+    "criteria": {
+      "has_log": "2025-07-30 03:05:36 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
