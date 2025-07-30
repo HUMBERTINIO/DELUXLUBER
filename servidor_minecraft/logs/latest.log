@@ -334,3 +334,13 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [30Jul2025 03:08:57.219] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1875, y=0, z=2882} BlockPos{x=-1877, y=-2, z=2884}
 [30Jul2025 03:08:57.917] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1874, y=-1, z=2882} BlockPos{x=-1874, y=-2, z=2881}
 [30Jul2025 03:09:07.026] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1874, y=1, z=2876} BlockPos{x=-1874, y=0, z=2875}
+[30Jul2025 03:09:08.569] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1875, y=1, z=2876} BlockPos{x=-1874, y=0, z=2875}
+[30Jul2025 03:09:08.637] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1875, y=1, z=2876} BlockPos{x=-1874, y=0, z=2875}
+[30Jul2025 03:11:35.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> wbn
+[30Jul2025 03:12:59.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GiovaniiYT15 moved wrongly!
+[30Jul2025 03:14:15.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> duerme
+[30Jul2025 03:15:24.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> we
+[30Jul2025 03:15:28.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> mande
+[30Jul2025 03:15:36.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> duerme
+[30Jul2025 03:15:37.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> yo ya estoy ;v
+[30Jul2025 03:16:02.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> okok
