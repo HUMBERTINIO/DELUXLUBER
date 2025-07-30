@@ -4658,6 +4658,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-07-30 22:12:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/levitate": {
     "criteria": {
       "levitated": "2025-07-30 20:56:36 +0000"
@@ -4679,6 +4685,12 @@
   "minecraft:recipes/building_blocks/crimson_planks": {
     "criteria": {
       "has_logs": "2025-07-30 21:57:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-07-30 22:13:28 +0000"
     },
     "done": true
   },
@@ -4772,6 +4784,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-07-30 22:13:28 +0000"
+    },
+    "done": true
+  },
   "cataclysm:kill_ender_golem": {
     "criteria": {
       "endergolem": "2025-07-30 20:37:21 +0000"
@@ -4799,6 +4817,12 @@
   "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
       "has_nether_brick": "2025-07-30 21:17:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-07-30 22:13:28 +0000"
     },
     "done": true
   },
@@ -4844,6 +4868,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-07-30 22:12:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
     "criteria": {
       "has_red_dye": "2025-07-30 21:04:39 +0000"
@@ -4859,6 +4889,12 @@
   "cataclysm:kill_ender_guardian": {
     "criteria": {
       "enderguardian": "2025-07-30 20:48:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-07-30 22:12:34 +0000"
     },
     "done": true
   },

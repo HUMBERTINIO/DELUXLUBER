@@ -12225,3 +12225,86 @@ java.util.ConcurrentModificationException: null
 [30Jul2025 22:08:34.352] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [30Jul2025 22:08:36.104] [Worker-Main-35/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_05
 [30Jul2025 22:09:30.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Applied effect Bad Omen to GiovaniiYT15]
+[30Jul2025 22:10:57.298] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/74143, l='ServerLevel[world]', x=-1280.50, y=55.00, z=2414.50]
+[30Jul2025 22:13:34.295] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jul2025 22:13:34.302] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jul2025 22:13:50.948] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Glowstone Dust'/75306, l='ServerLevel[world]', x=-1198.70, y=64.50, z=2473.30], dimensionLocationPath overworld
+[30Jul2025 22:13:50.948] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Glowstone Dust'/75306, l='ServerLevel[world]', x=-1198.70, y=64.50, z=2473.30] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@23, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@25]
+[30Jul2025 22:13:51.202] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Glowstone Dust'/75306, l='ServerLevel[world]', x=-1198.88, y=64.83, z=2473.14, removed=DISCARDED]
+[30Jul2025 22:13:54.397] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Glowstone Dust'/75320, l='ServerLevel[world]', x=-1198.70, y=64.50, z=2473.30], dimensionLocationPath overworld
+[30Jul2025 22:13:54.397] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Glowstone Dust'/75320, l='ServerLevel[world]', x=-1198.70, y=64.50, z=2473.30] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@23, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@25]
+[30Jul2025 22:13:54.413] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Glowstone Dust'/75320, l='ServerLevel[world]', x=-1198.67, y=64.66, z=2473.22, removed=DISCARDED]
+[30Jul2025 22:16:09.647] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Glowstone Dust'/75927, l='ServerLevel[world]', x=-1198.70, y=64.50, z=2473.30], dimensionLocationPath overworld
+[30Jul2025 22:16:09.647] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Glowstone Dust'/75927, l='ServerLevel[world]', x=-1198.70, y=64.50, z=2473.30] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@23, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@25]
+[30Jul2025 22:16:27.254] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Glowstone Dust'/75927, l='ServerLevel[world]', x=-1198.88, y=64.50, z=2473.79, removed=DISCARDED]
+[30Jul2025 22:16:56.348] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/76075, l='ServerLevel[world]', x=-1195.67, y=63.55, z=2476.50], dimensionLocationPath overworld
+[30Jul2025 22:16:56.348] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/76075, l='ServerLevel[world]', x=-1195.67, y=63.55, z=2476.50] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@23, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@25]
+[30Jul2025 22:16:56.846] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/76075, l='ServerLevel[world]', x=-1195.31, y=64.57, z=2476.43, removed=DISCARDED]
+[30Jul2025 22:18:34.280] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jul2025 22:18:34.288] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jul2025 22:23:34.261] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jul2025 22:23:34.267] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jul2025 22:28:34.260] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jul2025 22:28:34.267] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jul2025 22:30:37.253] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['GiovaniiYT15'/47, l='ServerLevel[world]', x=-1194.75, y=63.00, z=2476.69], dimensionLocationPath overworld
+[30Jul2025 22:30:37.253] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['GiovaniiYT15'/47, l='ServerLevel[world]', x=-1194.75, y=63.00, z=2476.69] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@23, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@25]
+[30Jul2025 22:30:37.406] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['GiovaniiYT15'/47, l='ServerLevel[world]', x=-1194.87, y=63.00, z=2476.56]
+[30Jul2025 22:30:37.653] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['GiovaniiYT15'/47, l='ServerLevel[world]', x=-1194.99, y=63.00, z=2476.56], dimensionLocationPath overworld
+[30Jul2025 22:30:37.653] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['GiovaniiYT15'/47, l='ServerLevel[world]', x=-1194.99, y=63.00, z=2476.56] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@23, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@25]
+[30Jul2025 22:30:38.052] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['GiovaniiYT15'/47, l='ServerLevel[world]', x=-1194.99, y=63.00, z=2476.56]
+[30Jul2025 22:31:20.008] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 29 messages to dispatch.
+[30Jul2025 22:30:44.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Set own game mode to Creative Mode]
+[30Jul2025 22:32:14.208] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 90111ms or 1802 ticks behind
+[30Jul2025 22:31:44.097] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[30Jul2025 22:32:14.225] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[30Jul2025 22:32:14.821] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GiovaniiYT15 lost connection: Disconnected
+[30Jul2025 22:32:14.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovaniiYT15 left the game
+[30Jul2025 22:32:14.822] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/core_id
+[30Jul2025 22:32:14.822] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/core_id
+[30Jul2025 22:32:14.823] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/physical_package_id
+[30Jul2025 22:32:14.823] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/physical_package_id
+[30Jul2025 22:32:14.823] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cpu_capacity
+[30Jul2025 22:32:14.823] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/core_id
+[30Jul2025 22:32:14.823] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/core_id
+[30Jul2025 22:32:14.823] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/physical_package_id
+[30Jul2025 22:32:14.823] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/physical_package_id
+[30Jul2025 22:32:14.823] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cpu_capacity
+[30Jul2025 22:32:14.824] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/core_id
+[30Jul2025 22:32:14.824] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/core_id
+[30Jul2025 22:32:14.824] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/physical_package_id
+[30Jul2025 22:32:14.824] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/physical_package_id
+[30Jul2025 22:32:14.824] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cpu_capacity
+[30Jul2025 22:32:14.824] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/core_id
+[30Jul2025 22:32:14.824] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/core_id
+[30Jul2025 22:32:14.824] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/physical_package_id
+[30Jul2025 22:32:14.824] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/physical_package_id
+[30Jul2025 22:32:14.824] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cpu_capacity
+[30Jul2025 22:32:14.825] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/cpuinfo
+[30Jul2025 22:32:14.840] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/self/auxv
+[30Jul2025 22:32:14.841] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader cpw.mods.modlauncher.TransformingClassLoader@2047981
+[30Jul2025 22:32:14.841] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528
+[30Jul2025 22:32:14.854] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@12e5baad[id=<null>,name=GiovaniiYT15,properties={},legacy=false] (/127.188.109.205:48649) lost connection: Disconnected
+[30Jul2025 22:32:14.854] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[30Jul2025 22:32:14.855] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[30Jul2025 22:32:14.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[30Jul2025 22:32:14.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[30Jul2025 22:32:14.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[30Jul2025 22:32:14.888] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 85b6d104-62ba-415a-b0b5-3b33c8cb7931
+[30Jul2025 22:32:14.898] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID f5b7d376-bf8c-49b7-b60a-e7135b917f2d
+[30Jul2025 22:32:14.898] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/]: This crash report has been saved to: /workspaces/DELUXLUBER/servidor_minecraft/./crash-reports/crash-2025-07-30_22.32.14-server.txt
+[30Jul2025 22:32:14.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[30Jul2025 22:32:15.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[30Jul2025 22:32:15.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[30Jul2025 22:32:15.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[30Jul2025 22:32:15.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[30Jul2025 22:32:15.364] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jul2025 22:32:15.372] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jul2025 22:32:15.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[30Jul2025 22:32:15.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[30Jul2025 22:32:15.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[30Jul2025 22:32:15.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[30Jul2025 22:32:15.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[30Jul2025 22:32:15.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[30Jul2025 22:32:16.425] [Server thread/INFO] [Framework/]: Unloading server configs...
+[30Jul2025 22:32:16.425] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[30Jul2025 22:32:16.426] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
