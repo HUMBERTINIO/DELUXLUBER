@@ -264,3 +264,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [30Jul2025 02:06:00.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nightmare73lb> chao pe
 [30Jul2025 02:06:02.113] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nightmare73lb lost connection: Disconnected
 [30Jul2025 02:06:02.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb left the game
+[30Jul2025 02:17:08.032] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GiovaniiYT15[/127.188.109.205:58369] logged in with entity id 12062 at (-1887.668919873017, 63.0, 2939.443760482082)
+[30Jul2025 02:17:08.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovaniiYT15 joined the game
+[30Jul2025 02:17:08.080] [Server thread/INFO] [Jade/]: Syncing config to GiovaniiYT15 (716504a6-70c1-3248-9807-9956be14b490)
+[30Jul2025 02:17:34.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> WAZUAZA
+[30Jul2025 02:17:43.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> SAGUSA
+[30Jul2025 02:18:22.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> moshtro111876?
