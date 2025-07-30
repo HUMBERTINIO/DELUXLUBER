@@ -4609,9 +4609,33 @@
     },
     "done": true
   },
+  "cataclysm:find_ruined_citadel": {
+    "criteria": {
+      "citadel": "2025-07-30 20:34:47 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_all_bosses": {
+    "criteria": {
+      "cataclysm:ender_guardian": "2025-07-30 20:48:14 +0000"
+    },
+    "done": false
+  },
   "aether:recipes/combat/iron_chestplate_repairing": {
     "criteria": {
       "has_iron_chestplate": "2025-07-30 20:18:02 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_ender_golem": {
+    "criteria": {
+      "endergolem": "2025-07-30 20:37:21 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_ender_guardian": {
+    "criteria": {
+      "enderguardian": "2025-07-30 20:48:14 +0000"
     },
     "done": true
   },

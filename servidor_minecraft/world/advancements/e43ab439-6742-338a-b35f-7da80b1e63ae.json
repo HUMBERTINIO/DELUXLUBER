@@ -6214,6 +6214,18 @@
     },
     "done": true
   },
+  "aether:recipes/misc/aether_tune_enchanting": {
+    "criteria": {
+      "has_disc": "2025-07-30 20:32:31 +0000"
+    },
+    "done": true
+  },
+  "endlessbiomes:glowing_green_rocks": {
+    "criteria": {
+      "glowing_green_rocks": "2025-07-30 20:29:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2025-07-30 20:21:32 +0000"
