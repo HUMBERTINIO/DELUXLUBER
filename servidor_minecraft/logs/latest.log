@@ -329,3 +329,12 @@ java.util.ConcurrentModificationException: null
 [30Jul2025 21:49:11.152] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/64800, l='ServerLevel[world]', x=-1285.50, y=49.00, z=2416.50]
 [30Jul2025 21:56:57.331] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-228, y=45, z=378} BlockPos{x=-228, y=44, z=379}
 [30Jul2025 21:56:57.376] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-228, y=45, z=379} BlockPos{x=-228, y=44, z=379}
+[30Jul2025 22:01:01.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Set own game mode to Creative Mode]
+[30Jul2025 22:01:10.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Set own game mode to Survival Mode]
+[30Jul2025 22:04:23.190] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moshtro111876 lost connection: Disconnected
+[30Jul2025 22:04:23.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 left the game
+[30Jul2025 22:04:23.220] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[30Jul2025 22:06:36.607] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1197, y=125, z=2580} BlockPos{x=-1197, y=125, z=2582}
+[30Jul2025 22:06:39.461] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1196, y=125, z=2578} BlockPos{x=-1194, y=125, z=2578}
+[30Jul2025 22:08:34.012] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2466ms or 49 ticks behind
+[30Jul2025 22:09:30.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Applied effect Bad Omen to GiovaniiYT15]

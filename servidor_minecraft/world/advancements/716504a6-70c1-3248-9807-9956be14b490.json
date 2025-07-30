@@ -156,6 +156,7 @@
       "minecraft:stray": "2025-07-25 03:28:36 +0000",
       "minecraft:silverfish": "2025-07-25 04:07:55 +0000",
       "minecraft:enderman": "2025-07-28 03:48:36 +0000",
+      "minecraft:endermite": "2025-07-30 21:58:59 +0000",
       "minecraft:vex": "2025-07-28 03:54:13 +0000",
       "minecraft:zombie": "2025-07-25 03:21:01 +0000",
       "minecraft:drowned": "2025-07-26 08:49:30 +0000",
@@ -4621,6 +4622,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-07-30 22:04:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_light_gray_bed": {
     "criteria": {
       "has_needed_dye": "2025-07-30 21:01:48 +0000"
@@ -4642,6 +4649,12 @@
   "minecraft:recipes/building_blocks/crimson_stairs": {
     "criteria": {
       "has_planks": "2025-07-30 21:57:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-07-30 22:04:35 +0000"
     },
     "done": true
   },
@@ -4699,6 +4712,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-07-30 22:06:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_yellow_wool": {
     "criteria": {
       "has_needed_dye": "2025-07-30 21:04:06 +0000"
@@ -4738,6 +4757,12 @@
   "minecraft:recipes/building_blocks/dye_light_gray_carpet": {
     "criteria": {
       "has_needed_dye": "2025-07-30 21:01:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-07-30 22:04:35 +0000"
     },
     "done": true
   },
@@ -4840,6 +4865,12 @@
   "minecraft:recipes/building_blocks/dye_yellow_bed": {
     "criteria": {
       "has_needed_dye": "2025-07-30 21:04:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-07-30 22:06:21 +0000"
     },
     "done": true
   },
