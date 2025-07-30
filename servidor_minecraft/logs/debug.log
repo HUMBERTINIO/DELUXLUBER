@@ -3623,3 +3623,72 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [30Jul2025 20:05:15.248] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:campsite/tent_1
 [30Jul2025 20:05:15.539] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:large_logs
 [30Jul2025 20:06:21.492] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_18
+[30Jul2025 20:07:58.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> mira we
+[30Jul2025 20:08:08.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> quieres netherite?
+[30Jul2025 20:08:16.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> nop
+[30Jul2025 20:08:28.727] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jul2025 20:08:28.737] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jul2025 20:09:13.613] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:memorial_tree/memorial_tree_01
+[30Jul2025 20:13:28.670] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jul2025 20:13:28.678] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jul2025 20:14:08.589] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:shrine
+[30Jul2025 20:15:13.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> duerme tilim
+[30Jul2025 20:15:36.602] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_06
+[30Jul2025 20:15:37.269] [IO-Worker-31/ERROR] [net.minecraft.world.level.chunk.storage.IOWorker/]: Failed to store chunk [1, 1]
+java.util.ConcurrentModificationException: null
+	at java.util.HashMap$HashIterator.nextNode(HashMap.java:1597) ~[?:?]
+	at java.util.HashMap$KeyIterator.next(HashMap.java:1620) ~[?:?]
+	at net.minecraft.nbt.CompoundTag.m_6434_(CompoundTag.java:133) ~[server-1.20.1-20230612.114412-srg.jar%23195!/:?]
+	at net.minecraft.nbt.NbtIo.m_128950_(NbtIo.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23195!/:?]
+	at net.minecraft.nbt.NbtIo.m_128941_(NbtIo.java:108) ~[server-1.20.1-20230612.114412-srg.jar%23195!/:?]
+	at net.minecraft.world.level.chunk.storage.RegionFileStorage.m_63708_(RegionFileStorage.java:79) ~[server-1.20.1-20230612.114412-srg.jar%23195!/:?]
+	at net.minecraft.world.level.chunk.storage.IOWorker.m_63535_(IOWorker.java:260) ~[server-1.20.1-20230612.114412-srg.jar%23195!/:?]
+	at net.minecraft.world.level.chunk.storage.IOWorker.m_63553_(IOWorker.java:250) ~[server-1.20.1-20230612.114412-srg.jar%23195!/:?]
+	at net.minecraft.util.thread.StrictQueue$IntRunnable.run(StrictQueue.java:60) ~[server-1.20.1-20230612.114412-srg.jar%23195!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.20.1-20230612.114412-srg.jar%23195!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23195!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23195!/:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[30Jul2025 20:15:37.787] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/start_pool/start_room
+[30Jul2025 20:15:37.793] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_12
+[30Jul2025 20:15:37.796] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_06
+[30Jul2025 20:15:37.799] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_03
+[30Jul2025 20:15:37.801] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_03
+[30Jul2025 20:15:37.804] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_02
+[30Jul2025 20:15:37.809] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_01
+[30Jul2025 20:15:37.812] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_05
+[30Jul2025 20:15:37.815] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_05
+[30Jul2025 20:15:37.817] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_06
+[30Jul2025 20:15:37.821] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_03
+[30Jul2025 20:15:37.825] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_04
+[30Jul2025 20:15:37.826] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_10
+[30Jul2025 20:15:37.832] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_02
+[30Jul2025 20:15:37.837] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_01
+[30Jul2025 20:15:37.840] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_04
+[30Jul2025 20:15:37.843] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_08
+[30Jul2025 20:15:37.858] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_04
+[30Jul2025 20:15:37.865] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_11
+[30Jul2025 20:15:37.869] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_01
+[30Jul2025 20:15:37.871] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_13
+[30Jul2025 20:15:37.872] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_01
+[30Jul2025 20:15:37.874] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_09
+[30Jul2025 20:15:37.875] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_07
+[30Jul2025 20:15:38.740] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:ruins/desert_7
+[30Jul2025 20:15:38.853] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:desert_shrine/whole
+[30Jul2025 20:15:39.715] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:ruins/desert_8
+[30Jul2025 20:15:39.723] [Worker-Main-2/DEBUG] [mixin/]: Mixing common.accessor.WorldGenRegionAccessor from aether.mixins.json into net.minecraft.server.level.WorldGenRegion
+[30Jul2025 20:15:39.723] [Worker-Main-2/DEBUG] [mixin/]: Mixing ChunkRegionAccessor from graveyard-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[30Jul2025 20:15:39.723] [Worker-Main-2/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[30Jul2025 20:15:39.723] [Worker-Main-2/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from mns-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[30Jul2025 20:15:39.724] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[30Jul2025 20:15:40.071] [Worker-Main-2/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[30Jul2025 20:15:42.070] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3223ms or 64 ticks behind
+[30Jul2025 20:16:21.594] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:end_shipwreck/base_plate/spawn
+[30Jul2025 20:16:21.595] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:end_shipwreck/variants/sideways_whole
+[30Jul2025 20:17:53.288] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of endlessbiomes:endstone_block
+[30Jul2025 20:17:54.161] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:jungle_temple/jungle_temple
+[30Jul2025 20:17:54.164] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:jungle_temple/outside_stairs_empty
+[30Jul2025 20:17:54.164] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:jungle_temple/outside_stairs_chest
+[30Jul2025 20:17:56.800] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:badlands_pyramid/whole
