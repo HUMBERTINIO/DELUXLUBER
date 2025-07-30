@@ -4273,21 +4273,63 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/skyroot_planks": {
+    "criteria": {
+      "has_logs": "2025-07-30 03:05:36 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/skyroot_wood": {
+    "criteria": {
+      "has_log": "2025-07-30 03:05:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-07-30 03:06:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-07-30 03:07:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-07-30 03:07:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-07-30 03:07:22 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/blue_aercloud_freezing": {
+    "criteria": {
+      "has_cold_aercloud": "2025-07-30 03:11:17 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/cold_parachute": {
+    "criteria": {
+      "has_cold_aercloud": "2025-07-30 03:11:17 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/golden_aercloud_enchanting": {
+    "criteria": {
+      "has_cold_aercloud": "2025-07-30 03:11:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_pink_petals": {
     "criteria": {
       "has_pink_petals": "2025-07-30 03:16:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_slab": {
-    "criteria": {
-      "has_planks": "2025-07-30 03:18:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/cyan_dye": {
-    "criteria": {
-      "has_blue_dye": "2025-07-30 03:27:44 +0000"
     },
     "done": true
   },
@@ -4303,18 +4345,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blue_candle": {
-    "criteria": {
-      "has_blue_dye": "2025-07-30 03:27:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_blue_dye": "2025-07-30 03:27:44 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/decorations/skyroot_crafting_table": {
     "criteria": {
       "has_planks": "2025-07-30 03:17:37 +0000"
@@ -4327,51 +4357,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cherry_fence": {
-    "criteria": {
-      "has_planks": "2025-07-30 03:18:18 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/misc/skyroot_stick": {
     "criteria": {
       "has_planks": "2025-07-30 03:17:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_stairs": {
-    "criteria": {
-      "has_planks": "2025-07-30 03:18:18 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/building_blocks/blue_aercloud_freezing": {
-    "criteria": {
-      "has_cold_aercloud": "2025-07-30 03:11:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
-    "criteria": {
-      "has_blue_dye": "2025-07-30 03:27:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-07-30 03:18:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_button": {
-    "criteria": {
-      "has_planks": "2025-07-30 03:18:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_planks": {
-    "criteria": {
-      "has_log": "2025-07-30 03:17:57 +0000"
     },
     "done": true
   },
@@ -4381,33 +4369,9 @@
     },
     "done": true
   },
-  "aether:recipes/tools/cold_parachute": {
-    "criteria": {
-      "has_cold_aercloud": "2025-07-30 03:11:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_wood": {
-    "criteria": {
-      "has_log": "2025-07-30 03:17:57 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/combat/skyroot_sword": {
     "criteria": {
       "has_planks": "2025-07-30 03:17:37 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/building_blocks/golden_aercloud_enchanting": {
-    "criteria": {
-      "has_cold_aercloud": "2025-07-30 03:11:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/flower_banner_pattern": {
-    "criteria": {
-      "has_oxeye_daisy": "2025-07-30 03:07:22 +0000"
     },
     "done": true
   },
@@ -4423,57 +4387,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_blue_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-07-30 03:27:44 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/building_blocks/skyroot_stairs": {
     "criteria": {
       "has_skyroot_planks": "2025-07-30 03:17:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
-    "criteria": {
-      "has_azure_bluet": "2025-07-30 03:07:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
-    "criteria": {
-      "has_blue_dye": "2025-07-30 03:27:44 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/redstone/skyroot_button": {
     "criteria": {
       "has_skyroot_planks": "2025-07-30 03:17:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-07-30 03:18:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_blue_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-07-30 03:27:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/purple_dye": {
-    "criteria": {
-      "has_blue_dye": "2025-07-30 03:27:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cherry_sign": {
-    "criteria": {
-      "has_planks": "2025-07-30 03:18:18 +0000"
     },
     "done": true
   },
@@ -4489,18 +4411,6 @@
     },
     "done": true
   },
-  "aether:recipes/building_blocks/skyroot_planks": {
-    "criteria": {
-      "has_logs": "2025-07-30 03:05:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-07-30 03:18:18 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/redstone/skyroot_trapdoor": {
     "criteria": {
       "has_skyroot_planks": "2025-07-30 03:17:37 +0000"
@@ -4513,21 +4423,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/blue_dye_from_cornflower": {
-    "criteria": {
-      "has_cornflower": "2025-07-30 03:06:49 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/combat/golden_dart_shooter": {
     "criteria": {
       "has_skyroot_planks": "2025-07-30 03:17:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_blue_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-07-30 03:27:44 +0000"
     },
     "done": true
   },
@@ -4537,21 +4435,69 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+  "aether:recipes/redstone/skyroot_fence_gate": {
     "criteria": {
-      "has_oxeye_daisy": "2025-07-30 03:07:22 +0000"
+      "has_skyroot_planks": "2025-07-30 03:17:37 +0000"
     },
     "done": true
   },
-  "aether:recipes/building_blocks/skyroot_wood": {
+  "minecraft:recipes/building_blocks/cherry_planks": {
     "criteria": {
-      "has_log": "2025-07-30 03:05:36 +0000"
+      "has_log": "2025-07-30 03:17:57 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+  "minecraft:recipes/building_blocks/cherry_wood": {
     "criteria": {
-      "has_blue_dye": "2025-07-30 03:27:44 +0000"
+      "has_log": "2025-07-30 03:17:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2025-07-30 03:18:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2025-07-30 03:18:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-30 03:18:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-30 03:18:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2025-07-30 03:18:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-30 03:18:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2025-07-30 03:18:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-30 03:18:18 +0000"
     },
     "done": true
   },
@@ -4561,9 +4507,63 @@
     },
     "done": true
   },
-  "aether:recipes/redstone/skyroot_fence_gate": {
+  "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
-      "has_skyroot_planks": "2025-07-30 03:17:37 +0000"
+      "has_blue_dye": "2025-07-30 03:27:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_candle": {
+    "criteria": {
+      "has_blue_dye": "2025-07-30 03:27:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_blue_dye": "2025-07-30 03:27:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_blue_dye": "2025-07-30 03:27:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-07-30 03:27:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-07-30 03:27:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-07-30 03:27:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-07-30 03:27:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-07-30 03:27:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-07-30 03:27:44 +0000"
     },
     "done": true
   },
