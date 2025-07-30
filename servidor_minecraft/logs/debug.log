@@ -14674,3 +14674,38 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [30Jul2025 05:50:50.393] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Jul2025 05:50:50.400] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [30Jul2025 05:52:32.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Set own game mode to Creative Mode]
+[30Jul2025 05:55:26.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Set own game mode to Survival Mode]
+[30Jul2025 05:55:31.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> te paso coords de la otra aldea
+[30Jul2025 05:55:50.366] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jul2025 05:55:50.374] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jul2025 05:55:52.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nightmare73lb> si pero vienes afuera de la base
+[30Jul2025 05:56:03.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nightmare73lb> me traje la oveja rosa
+[30Jul2025 05:56:07.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> XD
+[30Jul2025 05:56:11.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> enserio?
+[30Jul2025 05:56:34.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nightmare73lb> click derecho
+[30Jul2025 05:56:51.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nightmare73lb> onta la base
+[30Jul2025 05:56:58.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nightmare73lb> aldea mejor dicho
+[30Jul2025 05:57:02.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> [name:"casa 2", x:-2397, y:72, z:3071, dim:minecraft:overworld]
+[30Jul2025 05:57:10.466] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/72916, l='ServerLevel[world]', x=-2452.58, y=36.00, z=2602.13], dimensionLocationPath overworld
+[30Jul2025 05:57:10.466] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/72916, l='ServerLevel[world]', x=-2452.58, y=36.00, z=2602.13] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@23, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@25]
+[30Jul2025 05:57:18.459] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/72916, l='ServerLevel[world]', x=-2452.58, y=36.00, z=2602.13, removed=UNLOADED_TO_CHUNK]
+[30Jul2025 05:57:19.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nightmare73lb> olvidalo encontre una
+[30Jul2025 05:57:22.007] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/73138, l='ServerLevel[world]', x=-2452.58, y=36.00, z=2602.13], dimensionLocationPath overworld
+[30Jul2025 05:57:22.007] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/73138, l='ServerLevel[world]', x=-2452.58, y=36.00, z=2602.13] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@23, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@25]
+[30Jul2025 05:57:45.339] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beekeeper'/72705, l='ServerLevel[world]', x=-2330.30, y=66.00, z=2451.87] died, message: 'Beekeeper was slain by Vindicator'
+[30Jul2025 05:58:33.166] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/73138, l='ServerLevel[world]', x=-2452.58, y=36.00, z=2602.13, removed=DISCARDED]
+[30Jul2025 06:00:49.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> wbn,,
+[30Jul2025 06:00:50.394] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jul2025 06:00:50.402] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jul2025 06:00:52.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nightmare73lb> eu
+[30Jul2025 06:00:58.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> se murio
+[30Jul2025 06:00:59.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> :V
+[30Jul2025 06:01:25.508] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Glowstone Dust'/75243, l='ServerLevel[world]', x=-2314.90, y=67.00, z=2426.15], dimensionLocationPath overworld
+[30Jul2025 06:01:25.508] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Glowstone Dust'/75243, l='ServerLevel[world]', x=-2314.90, y=67.00, z=2426.15] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@23, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@25]
+[30Jul2025 06:01:26.008] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Glowstone Dust'/75243, l='ServerLevel[world]', x=-2315.77, y=66.94, z=2425.73, removed=DISCARDED]
+[30Jul2025 06:01:26.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> estaba llevandola y aparecio creeeper
+[30Jul2025 06:01:30.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> y nomas escuche y pzzz
+[30Jul2025 06:01:42.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> y trikitrakatelas
+[30Jul2025 06:01:57.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> la base esta poca iluminada
+[30Jul2025 06:02:01.575] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/72591, l='ServerLevel[world]', x=-2341.16, y=69.00, z=2451.14] died, message: 'Nitwit was frozen to death by Iceologer'
+[30Jul2025 06:02:42.893] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/72648, l='ServerLevel[world]', x=-2326.29, y=64.00, z=2468.63] died, message: 'Farmer was shot by Illusioner'

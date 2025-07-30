@@ -426,3 +426,25 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [30Jul2025 05:49:00.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nightmare73lb> wtf un oveja rosa XDDDDDD
 [30Jul2025 05:49:06.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> XD
 [30Jul2025 05:52:32.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Set own game mode to Creative Mode]
+[30Jul2025 05:55:26.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Set own game mode to Survival Mode]
+[30Jul2025 05:55:31.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> te paso coords de la otra aldea
+[30Jul2025 05:55:52.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nightmare73lb> si pero vienes afuera de la base
+[30Jul2025 05:56:03.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nightmare73lb> me traje la oveja rosa
+[30Jul2025 05:56:07.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> XD
+[30Jul2025 05:56:11.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> enserio?
+[30Jul2025 05:56:34.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nightmare73lb> click derecho
+[30Jul2025 05:56:51.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nightmare73lb> onta la base
+[30Jul2025 05:56:58.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nightmare73lb> aldea mejor dicho
+[30Jul2025 05:57:02.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> [name:"casa 2", x:-2397, y:72, z:3071, dim:minecraft:overworld]
+[30Jul2025 05:57:19.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nightmare73lb> olvidalo encontre una
+[30Jul2025 05:57:45.339] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beekeeper'/72705, l='ServerLevel[world]', x=-2330.30, y=66.00, z=2451.87] died, message: 'Beekeeper was slain by Vindicator'
+[30Jul2025 06:00:49.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> wbn,,
+[30Jul2025 06:00:52.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nightmare73lb> eu
+[30Jul2025 06:00:58.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> se murio
+[30Jul2025 06:00:59.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> :V
+[30Jul2025 06:01:26.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> estaba llevandola y aparecio creeeper
+[30Jul2025 06:01:30.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> y nomas escuche y pzzz
+[30Jul2025 06:01:42.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> y trikitrakatelas
+[30Jul2025 06:01:57.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> la base esta poca iluminada
+[30Jul2025 06:02:01.575] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/72591, l='ServerLevel[world]', x=-2341.16, y=69.00, z=2451.14] died, message: 'Nitwit was frozen to death by Iceologer'
+[30Jul2025 06:02:42.893] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/72648, l='ServerLevel[world]', x=-2326.29, y=64.00, z=2468.63] died, message: 'Farmer was shot by Illusioner'
