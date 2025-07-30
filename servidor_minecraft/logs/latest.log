@@ -289,3 +289,39 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [30Jul2025 04:26:45.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nightmare73lb> XD
 [30Jul2025 04:26:50.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> diavlo
 [30Jul2025 04:28:39.577] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['MMAHUEVO'/13165, l='ServerLevel[world]', x=-1755.35, y=63.00, z=2774.36] died: MMAHUEVO burned to death
+[30Jul2025 04:35:06.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> pueden llamada? ;v
+[30Jul2025 04:36:57.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nightmare73lb> nah no tengo ganas de llamada XDDD
+[30Jul2025 04:37:04.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> y eso? Xd
+[30Jul2025 04:38:11.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nightmare73lb> ando comiendo y ademas nose, simplemente no tengo ganas de hablar XDDD
+[30Jul2025 04:40:07.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nightmare73lb> eso si
+[30Jul2025 04:40:14.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nightmare73lb> me quiero matar
+[30Jul2025 04:40:19.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> x2
+[30Jul2025 04:40:29.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nightmare73lb> el puto gym todo lleno XDDD
+[30Jul2025 04:40:40.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> diavlo
+[30Jul2025 04:40:52.862] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1, y=-56, z=26}
+[30Jul2025 04:40:52.863] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-2, y=-56, z=26}
+[30Jul2025 04:40:52.863] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=0, y=-56, z=26}
+[30Jul2025 04:40:52.864] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=19}
+[30Jul2025 04:40:53.608] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=18}
+[30Jul2025 04:41:00.989] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3243, y=98, z=2651}
+[30Jul2025 04:41:00.990] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-3235, y=97, z=2652}
+[30Jul2025 04:41:17.763] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-169, y=-51, z=-77}
+[30Jul2025 04:41:18.404] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-169, y=-51, z=-80}
+[30Jul2025 04:41:44.525] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moshtro111876 moved too quickly! 11.662052733091059,7.5088169671361555,-11.710767663134448
+[30Jul2025 04:41:50.894] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1, y=-56, z=26}
+[30Jul2025 04:41:50.895] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-2, y=-56, z=26}
+[30Jul2025 04:41:50.895] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=0, y=-56, z=26}
+[30Jul2025 04:41:50.895] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=19}
+[30Jul2025 04:41:51.765] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=18}
+[30Jul2025 04:44:12.636] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moshtro111876 lost connection: Disconnected
+[30Jul2025 04:44:12.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 left the game
+[30Jul2025 04:46:18.442] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: moshtro111876[/127.173.215.32:50399] logged in with entity id 32492 at (-11432.418245087385, 33.31013523460975, 5284.919946950731)
+[30Jul2025 04:46:18.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 joined the game
+[30Jul2025 04:46:18.451] [Server thread/INFO] [Jade/]: Syncing config to moshtro111876 (e43ab439-6742-338a-b35f-7da80b1e63ae)
+[30Jul2025 04:48:55.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> de la raid
+[30Jul2025 04:49:50.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nightmare73lb> ?
+[30Jul2025 04:50:02.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> donde estan?
+[30Jul2025 04:50:23.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nightmare73lb> porque me detecto la invasion si estaba en cueva XDDD
+[30Jul2025 04:50:27.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> XD
+[30Jul2025 04:50:42.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nightmare73lb> ptmnr creo que estan en la cueva entonces
+[30Jul2025 04:50:48.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> diavlo
