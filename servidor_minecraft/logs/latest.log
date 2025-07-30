@@ -242,3 +242,4 @@ java.util.ConcurrentModificationException: null
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
 [30Jul2025 20:15:42.070] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3223ms or 64 ticks behind
+[30Jul2025 20:19:16.770] [Server thread/INFO] [ModernFix/]: Instantiating Mojang DFU
