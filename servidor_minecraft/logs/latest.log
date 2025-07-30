@@ -448,3 +448,11 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [30Jul2025 06:01:57.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> la base esta poca iluminada
 [30Jul2025 06:02:01.575] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/72591, l='ServerLevel[world]', x=-2341.16, y=69.00, z=2451.14] died, message: 'Nitwit was frozen to death by Iceologer'
 [30Jul2025 06:02:42.893] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/72648, l='ServerLevel[world]', x=-2326.29, y=64.00, z=2468.63] died, message: 'Farmer was shot by Illusioner'
+[30Jul2025 06:02:54.087] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/72645, l='ServerLevel[world]', x=-2329.08, y=68.00, z=2447.27] died, message: 'Unemployed was shot by Illusioner'
+[30Jul2025 06:03:11.736] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/72762, l='ServerLevel[world]', x=-2322.28, y=67.00, z=2448.41] died, message: 'Farmer was killed by Iceologer using magic'
+[30Jul2025 06:03:30.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> men?
+[30Jul2025 06:03:36.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nightmare73lb> ando raid
+[30Jul2025 06:03:39.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nightmare73lb> pera
+[30Jul2025 06:04:05.235] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GiovaniiYT15 lost connection: Timed out
+[30Jul2025 06:04:05.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovaniiYT15 left the game
+[30Jul2025 06:04:53.714] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/72715, l='ServerLevel[world]', x=-2328.73, y=68.00, z=2449.60] died, message: 'Farmer was slain by Vindicator'
