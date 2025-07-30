@@ -346,3 +346,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [30Jul2025 05:08:19.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Set own game mode to Survival Mode]
 [30Jul2025 05:10:28.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Gave 1000 experience points to GiovaniiYT15]
 [30Jul2025 05:11:05.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Gave 10000 experience points to GiovaniiYT15]
+[30Jul2025 05:12:35.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> ya me canse ;v
+[30Jul2025 05:15:59.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Gave 15000 experience points to GiovaniiYT15]

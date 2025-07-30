@@ -339,6 +339,7 @@
       "minecraft:creeper": "2025-07-25 05:07:38 +0000",
       "minecraft:wither": "2025-07-29 03:52:49 +0000",
       "minecraft:evoker": "2025-07-28 09:58:56 +0000",
+      "minecraft:slime": "2025-07-30 05:14:57 +0000",
       "minecraft:phantom": "2025-07-28 04:02:04 +0000",
       "minecraft:zombified_piglin": "2025-07-28 22:34:59 +0000",
       "minecraft:witch": "2025-07-28 09:57:29 +0000",
@@ -5742,6 +5743,30 @@
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_glow_ink_sac": "2025-07-30 04:57:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-07-30 05:14:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-07-30 05:14:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-07-30 05:14:57 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_helmet_repairing": {
+    "criteria": {
+      "has_golden_helmet": "2025-07-30 05:14:07 +0000"
     },
     "done": true
   },
