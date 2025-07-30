@@ -326,3 +326,6 @@ java.util.ConcurrentModificationException: null
 [30Jul2025 21:24:55.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> diavlo
 [30Jul2025 21:30:16.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> ÑEJEJE
 [30Jul2025 21:30:29.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> XD
+[30Jul2025 21:49:11.152] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/64800, l='ServerLevel[world]', x=-1285.50, y=49.00, z=2416.50]
+[30Jul2025 21:56:57.331] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-228, y=45, z=378} BlockPos{x=-228, y=44, z=379}
+[30Jul2025 21:56:57.376] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-228, y=45, z=379} BlockPos{x=-228, y=44, z=379}
