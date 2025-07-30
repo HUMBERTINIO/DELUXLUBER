@@ -6178,5 +6178,11 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/sunbird_blessing": {
+    "criteria": {
+      "all_effects": "2025-07-30 04:22:17 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
