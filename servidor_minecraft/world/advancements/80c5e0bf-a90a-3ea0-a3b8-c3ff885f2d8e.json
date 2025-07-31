@@ -13,8 +13,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-07-31 03:36:43 +0000",
+      "minecraft:old_growth_pine_taiga": "2025-07-31 03:52:05 +0000",
       "minecraft:taiga": "2025-07-29 09:14:49 +0000",
       "minecraft:eroded_badlands": "2025-07-29 09:56:29 +0000",
+      "minecraft:frozen_river": "2025-07-31 03:38:29 +0000",
+      "minecraft:cherry_grove": "2025-07-31 03:36:03 +0000",
+      "minecraft:windswept_hills": "2025-07-31 03:57:07 +0000",
       "minecraft:wooded_badlands": "2025-07-28 05:26:58 +0000",
       "minecraft:bamboo_jungle": "2025-07-28 22:41:50 +0000",
       "minecraft:beach": "2025-07-25 05:01:33 +0000",
@@ -22,16 +27,28 @@
       "minecraft:sparse_jungle": "2025-07-25 04:25:30 +0000",
       "minecraft:river": "2025-07-25 03:14:49 +0000",
       "minecraft:lukewarm_ocean": "2025-07-25 04:59:38 +0000",
+      "minecraft:snowy_plains": "2025-07-31 03:36:36 +0000",
+      "minecraft:stony_shore": "2025-07-31 03:41:36 +0000",
       "minecraft:dripstone_caves": "2025-07-29 07:11:59 +0000",
+      "minecraft:snowy_taiga": "2025-07-31 03:38:22 +0000",
       "minecraft:swamp": "2025-07-29 08:48:29 +0000",
+      "minecraft:grove": "2025-07-31 03:38:12 +0000",
+      "minecraft:cold_ocean": "2025-07-31 03:57:36 +0000",
       "minecraft:forest": "2025-07-25 05:07:18 +0000",
       "minecraft:lush_caves": "2025-07-25 03:34:17 +0000",
+      "minecraft:deep_cold_ocean": "2025-07-31 03:57:46 +0000",
+      "minecraft:ice_spikes": "2025-07-31 03:38:31 +0000",
       "minecraft:desert": "2025-07-25 03:13:21 +0000",
+      "minecraft:windswept_forest": "2025-07-31 03:52:11 +0000",
       "minecraft:jungle": "2025-07-25 05:01:52 +0000",
       "minecraft:ocean": "2025-07-29 05:08:43 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-07-31 03:48:22 +0000",
       "minecraft:windswept_savanna": "2025-07-25 04:52:17 +0000",
       "minecraft:warm_ocean": "2025-07-25 03:21:15 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-07-31 03:25:00 +0000",
       "minecraft:flower_forest": "2025-07-30 05:40:27 +0000",
+      "minecraft:frozen_peaks": "2025-07-31 03:38:11 +0000",
+      "minecraft:meadow": "2025-07-31 03:36:25 +0000",
       "minecraft:savanna": "2025-07-29 09:29:37 +0000",
       "minecraft:plains": "2025-07-25 05:09:44 +0000"
     },
@@ -5742,27 +5759,33 @@
     },
     "done": true
   },
-  "aether:recipes/tools/diamond_hoe_repairing": {
-    "criteria": {
-      "has_diamond_hoe": "2025-07-30 06:15:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon": {
-    "criteria": {
-      "has_salmon": "2025-07-30 05:53:06 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_glow_ink_sac": "2025-07-30 04:57:09 +0000"
     },
     "done": true
   },
-  "aether:recipes/combat/chainmail_boots_repairing": {
+  "aether:recipes/combat/golden_helmet_repairing": {
     "criteria": {
-      "has_chainmail_boots": "2025-07-30 05:24:23 +0000"
+      "has_golden_helmet": "2025-07-30 05:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-07-30 05:14:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-07-30 05:14:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-07-30 05:14:57 +0000"
     },
     "done": true
   },
@@ -5778,9 +5801,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/lead": {
+  "aether:recipes/combat/chainmail_boots_repairing": {
     "criteria": {
-      "has_slime_ball": "2025-07-30 05:14:57 +0000"
+      "has_chainmail_boots": "2025-07-30 05:24:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-07-30 05:53:06 +0000"
     },
     "done": true
   },
@@ -5790,27 +5819,231 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/sticky_piston": {
-    "criteria": {
-      "has_slime_ball": "2025-07-30 05:14:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-07-30 05:53:06 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/slime_block": {
+  "aether:recipes/tools/diamond_hoe_repairing": {
     "criteria": {
-      "has_slime_ball": "2025-07-30 05:14:57 +0000"
+      "has_diamond_hoe": "2025-07-30 06:15:18 +0000"
     },
     "done": true
   },
-  "aether:recipes/combat/golden_helmet_repairing": {
+  "graveyard:graveyard/medium_graveyard": {
     "criteria": {
-      "has_golden_helmet": "2025-07-30 05:14:07 +0000"
+      "medium_graveyard": "2025-07-31 04:00:12 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_2": "2025-07-31 04:36:40 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-07-31 04:00:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-07-31 04:00:48 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/upgrades/wood_to_iron_chest_upgrade": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-31 03:30:11 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:end_root": {
+    "criteria": {
+      "custom_test_name": "2025-07-31 03:21:55 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_ancient_stronghold": {
+    "criteria": {
+      "ancient_stronghold": "2025-07-31 03:48:12 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/copper_iron_chest": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-31 03:30:11 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-07-31 03:40:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-07-31 04:00:48 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2025-07-31 03:47:00 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_frostbitten_golem": {
+    "criteria": {
+      "frostbitten_golem": "2025-07-31 03:43:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2025-07-31 04:19:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-07-31 04:00:48 +0000"
+    },
+    "done": true
+  },
+  "terramity:terramity_parent_advancement": {
+    "criteria": {
+      "terramity_parent_advancement_0": "2025-07-31 03:21:55 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_the_ancient_guardian": {
+    "criteria": {
+      "guardian": "2025-07-31 03:49:41 +0000"
+    },
+    "done": true
+  },
+  "call_of_yucutan:obtain_both_weapons": {
+    "criteria": {
+      "obtain_both_weapons_1": "2025-07-31 04:31:28 +0000"
+    },
+    "done": false
+  },
+  "ironchest:recipes/decorations/chests/vanilla_dirt_chest": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-31 03:23:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-07-31 04:00:48 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:suns_blessing": {
+    "criteria": {
+      "get_suns_blessing": "2025-07-31 04:11:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-07-31 04:00:48 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_frostbitten_temple": {
+    "criteria": {
+      "frostbitten_temple": "2025-07-31 03:42:42 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/iron_gold_chest": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-31 03:47:07 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_spiky_bug": {
+    "criteria": {
+      "spiky_bug": "2025-07-31 03:49:05 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/upgrades/iron_to_gold_chest_upgrade": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-31 03:30:11 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/upgrades/copper_to_iron_chest_upgrade": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-31 03:30:11 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/vanilla_iron_chest": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-31 03:30:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-07-31 04:00:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2025-07-31 04:00:21 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/gold_diamond_chest": {
+    "criteria": {
+      "has_diamonds": "2025-07-31 03:50:38 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:sneak_grove": {
+    "criteria": {
+      "sneak_grove": "2025-07-31 04:10:58 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:legendary_monsters_root": {
+    "criteria": {
+      "custom_test_name": "2025-07-31 03:21:55 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bornin_chaos": {
+    "criteria": {
+      "bornin_chaos_0": "2025-07-31 03:21:55 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:nether_root": {
+    "criteria": {
+      "custom_test_name": "2025-07-31 03:21:55 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2025-07-31 04:08:37 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/corruption": {
+    "criteria": {
+      "corruption": "2025-07-31 03:43:14 +0000"
     },
     "done": true
   },
