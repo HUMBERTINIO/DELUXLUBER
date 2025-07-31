@@ -6214,21 +6214,9 @@
     },
     "done": true
   },
-  "aether:recipes/misc/aether_tune_enchanting": {
+  "minecraft:recipes/redstone/repeater": {
     "criteria": {
-      "has_disc": "2025-07-30 20:32:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bricks": {
-    "criteria": {
-      "has_brick": "2025-07-30 21:14:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sponge": {
-    "criteria": {
-      "has_wet_sponge": "2025-07-30 21:14:30 +0000"
+      "has_redstone_torch": "2025-07-30 20:21:32 +0000"
     },
     "done": true
   },
@@ -6238,9 +6226,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/repeater": {
+  "aether:recipes/misc/aether_tune_enchanting": {
     "criteria": {
-      "has_redstone_torch": "2025-07-30 20:21:32 +0000"
+      "has_disc": "2025-07-30 20:32:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2025-07-30 21:14:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-07-30 21:14:35 +0000"
     },
     "done": true
   },
@@ -6259,6 +6259,42 @@
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2025-07-30 21:14:35 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:end_root": {
+    "criteria": {
+      "custom_test_name": "2025-07-31 01:12:19 +0000"
+    },
+    "done": true
+  },
+  "terramity:terramity_parent_advancement": {
+    "criteria": {
+      "terramity_parent_advancement_0": "2025-07-31 01:12:19 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/gold_diamond_chest": {
+    "criteria": {
+      "has_diamonds": "2025-07-31 01:12:19 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:legendary_monsters_root": {
+    "criteria": {
+      "custom_test_name": "2025-07-31 01:12:19 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bornin_chaos": {
+    "criteria": {
+      "bornin_chaos_0": "2025-07-31 01:12:19 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:nether_root": {
+    "criteria": {
+      "custom_test_name": "2025-07-31 01:12:19 +0000"
     },
     "done": true
   },
