@@ -1,0 +1,52 @@
+{
+  "type": "pfm:dynamic_furniture",
+  "supportedVariants": [
+    "minecraft:oak",
+    "minecraft:bamboo",
+    "minecraft:spruce",
+    "minecraft:birch",
+    "minecraft:jungle",
+    "minecraft:acacia",
+    "minecraft:cherry",
+    "minecraft:dark_oak",
+    "minecraft:mangrove",
+    "minecraft:crimson",
+    "minecraft:warped",
+    "aether:skyroot",
+    "born_in_chaos_v1:scorched",
+    "cataclysm:chorus",
+    "endlessbiomes:penumbra",
+    "endlessbiomes:twisted"
+  ],
+  "ingredients": {
+    "vanillaIngredients": [
+      {
+        "item": "minecraft:light_blue_wool"
+      },
+      {
+        "item": "minecraft:light_blue_wool"
+      },
+      {
+        "item": "minecraft:light_blue_wool"
+      },
+      {
+        "item": "minecraft:torch"
+      },
+      {
+        "item": "minecraft:redstone"
+      }
+    ],
+    "variantChildren": {
+      "stripped_log": 2
+    }
+  },
+  "result": {
+    "outputClass": "BasicLampBlock",
+    "tag": {
+      "BlockEntityTag": {
+        "color": "light_blue"
+      },
+      "variantInNbt": 1
+    }
+  }
+}

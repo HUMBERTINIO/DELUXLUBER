@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "name": "penumbra_endlessbiomes_raw_table_log",
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:penumbra_endlessbiomes_raw_table_log"
+        }
+      ]
+    }
+  ]
+}

@@ -45,6 +45,7 @@
       "minecraft:snowy_taiga": "2025-07-26 22:23:53 +0000",
       "minecraft:grove": "2025-07-26 21:45:31 +0000",
       "minecraft:swamp": "2025-07-29 09:19:19 +0000",
+      "minecraft:jagged_peaks": "2025-07-31 06:22:39 +0000",
       "minecraft:forest": "2025-07-25 05:08:30 +0000",
       "minecraft:lush_caves": "2025-07-25 03:58:55 +0000",
       "minecraft:ice_spikes": "2025-07-26 22:27:43 +0000",
@@ -6395,15 +6396,15 @@
     },
     "done": true
   },
-  "call_of_yucutan:interact_with_mirror": {
+  "aether:ice_accessory": {
     "criteria": {
-      "interact_with_mirror_0": "2025-07-31 05:00:06 +0000"
+      "ice_ring": "2025-07-31 02:52:33 +0000"
     },
     "done": true
   },
-  "mowziesmobs:kill_umvuthana_raptor": {
+  "aquamirae:adventure/root": {
     "criteria": {
-      "umvuthana_raptor": "2025-07-31 04:02:41 +0000"
+      "crafting_table": "2025-07-31 03:00:17 +0000"
     },
     "done": true
   },
@@ -6413,87 +6414,9 @@
     },
     "done": true
   },
-  "legendary_monsters:locate_ancient_stronghold": {
-    "criteria": {
-      "ancient_stronghold": "2025-07-31 03:46:31 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:horror_underthe_mantle": {
-    "criteria": {
-      "horror_underthe_mantle_0": "2025-07-31 05:25:34 +0000"
-    },
-    "done": true
-  },
   "ironchest:recipes/decorations/chests/copper_iron_chest": {
     "criteria": {
       "has_iron_ingot": "2025-07-31 03:01:45 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:fighting_nightmares": {
-    "criteria": {
-      "fighting_nightmares_0": "2025-07-31 03:42:28 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:dismantledto_bones": {
-    "criteria": {
-      "dismantledto_bones_0": "2025-07-31 03:54:58 +0000"
-    },
-    "done": true
-  },
-  "terramity:stone_mask_advancement": {
-    "criteria": {
-      "stone_mask_advancement_0": "2025-07-31 04:52:51 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade": {
-    "criteria": {
-      "has_advanced_pickup_upgrade": "2025-07-31 04:28:29 +0000"
-    },
-    "done": true
-  },
-  "call_of_yucutan:get_burnt_by_light": {
-    "criteria": {
-      "get_burnt_by_light_0": "2025-07-31 05:00:05 +0000"
-    },
-    "done": true
-  },
-  "legendary_monsters:defeat_overgrown_colossus": {
-    "criteria": {
-      "colossus": "2025-07-31 04:14:11 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:kill_frostmaw": {
-    "criteria": {
-      "frostmaw": "2025-07-31 03:37:42 +0000"
-    },
-    "done": true
-  },
-  "ironchest:recipes/decorations/chests/vanilla_dirt_chest": {
-    "criteria": {
-      "has_iron_ingot": "2025-07-31 03:07:40 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:pumpkin_sir": {
-    "criteria": {
-      "pumpkin_sir_0": "2025-07-31 05:31:03 +0000"
-    },
-    "done": true
-  },
-  "legendary_monsters:locate_frostbitten_temple": {
-    "criteria": {
-      "frostbitten_temple": "2025-07-31 03:42:55 +0000"
-    },
-    "done": true
-  },
-  "legendary_monsters:defeat_spiky_bug": {
-    "criteria": {
-      "spiky_bug": "2025-07-31 03:48:13 +0000"
     },
     "done": true
   },
@@ -6515,21 +6438,51 @@
     },
     "done": true
   },
-  "aether:ice_accessory": {
+  "ironchest:recipes/decorations/chests/vanilla_dirt_chest": {
     "criteria": {
-      "ice_ring": "2025-07-31 02:52:33 +0000"
+      "has_iron_ingot": "2025-07-31 03:07:40 +0000"
     },
     "done": true
   },
-  "mowziesmobs:kill_umvuthi": {
+  "mowziesmobs:kill_frostmaw": {
     "criteria": {
-      "barako": "2025-07-31 05:25:12 +0000"
+      "frostmaw": "2025-07-31 03:37:42 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/auto_smoking_upgrade_from_auto_smelting_upgrade": {
+  "born_in_chaos_v1:fighting_nightmares": {
     "criteria": {
-      "has_auto_smelting_upgrade": "2025-07-31 04:23:44 +0000"
+      "fighting_nightmares_0": "2025-07-31 03:42:28 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_frostbitten_temple": {
+    "criteria": {
+      "frostbitten_temple": "2025-07-31 03:42:55 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_ancient_stronghold": {
+    "criteria": {
+      "ancient_stronghold": "2025-07-31 03:46:31 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_spiky_bug": {
+    "criteria": {
+      "spiky_bug": "2025-07-31 03:48:13 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dismantledto_bones": {
+    "criteria": {
+      "dismantledto_bones_0": "2025-07-31 03:54:58 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthana_raptor": {
+    "criteria": {
+      "umvuthana_raptor": "2025-07-31 04:02:41 +0000"
     },
     "done": true
   },
@@ -6539,21 +6492,199 @@
     },
     "done": true
   },
+  "legendary_monsters:locate_mossy_temple": {
+    "criteria": {
+      "mossy_temple": "2025-07-31 04:13:41 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_overgrown_colossus": {
+    "criteria": {
+      "colossus": "2025-07-31 04:14:11 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/auto_smoking_upgrade_from_auto_smelting_upgrade": {
+    "criteria": {
+      "has_auto_smelting_upgrade": "2025-07-31 04:23:44 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/auto_blasting_upgrade_from_auto_smelting_upgrade": {
     "criteria": {
       "has_auto_smelting_upgrade": "2025-07-31 04:23:44 +0000"
     },
     "done": true
   },
-  "aquamirae:adventure/root": {
+  "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade": {
     "criteria": {
-      "crafting_table": "2025-07-31 03:00:17 +0000"
+      "has_advanced_pickup_upgrade": "2025-07-31 04:28:29 +0000"
     },
     "done": true
   },
-  "legendary_monsters:locate_mossy_temple": {
+  "terramity:stone_mask_advancement": {
     "criteria": {
-      "mossy_temple": "2025-07-31 04:13:41 +0000"
+      "stone_mask_advancement_0": "2025-07-31 04:52:51 +0000"
+    },
+    "done": true
+  },
+  "call_of_yucutan:get_burnt_by_light": {
+    "criteria": {
+      "get_burnt_by_light_0": "2025-07-31 05:00:05 +0000"
+    },
+    "done": true
+  },
+  "call_of_yucutan:interact_with_mirror": {
+    "criteria": {
+      "interact_with_mirror_0": "2025-07-31 05:00:06 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthi": {
+    "criteria": {
+      "barako": "2025-07-31 05:25:12 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:horror_underthe_mantle": {
+    "criteria": {
+      "horror_underthe_mantle_0": "2025-07-31 05:25:34 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:pumpkin_sir": {
+    "criteria": {
+      "pumpkin_sir_0": "2025-07-31 05:31:03 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_cloudy_temple": {
+    "criteria": {
+      "cloudy_temple": "2025-07-31 06:26:26 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_abandoned_crypt": {
+    "criteria": {
+      "abandoned_crypt": "2025-07-31 06:29:43 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_haunted_knight": {
+    "criteria": {
+      "ambusher": "2025-07-31 06:29:58 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_haunted_guard": {
+    "criteria": {
+      "ambusher": "2025-07-31 06:30:45 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/iron_gold_chest": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-31 06:30:54 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_posessed_paladin": {
+    "criteria": {
+      "ambusher": "2025-07-31 06:33:42 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:trickor_treat": {
+    "criteria": {
+      "trickor_treat_3": "2025-07-31 06:36:57 +0000",
+      "trickor_treat_4": "2025-07-31 06:36:57 +0000",
+      "trickor_treat_5": "2025-07-31 06:36:57 +0000",
+      "trickor_treat_6": "2025-07-31 06:36:57 +0000",
+      "trickor_treat_7": "2025-07-31 06:36:57 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:mr_decoction": {
+    "criteria": {
+      "mr_decoction_0": "2025-07-31 07:14:35 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/diamond_obsidian_chest": {
+    "criteria": {
+      "has_obsidian": "2025-07-31 08:08:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_the_recipe": "2025-07-31 08:08:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2025-07-31 08:41:25 +0000"
+    },
+    "done": true
+  },
+  "terramity:most_gamblers_quit_advancement": {
+    "criteria": {
+      "most_gamblers_quit_advancement_0": "2025-07-31 08:45:58 +0000"
+    },
+    "done": true
+  },
+  "terramity:lucky_sevens_advancement": {
+    "criteria": {
+      "lucky_sevens_advancement_0": "2025-07-31 09:09:49 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_soul_fortress_remains": {
+    "criteria": {
+      "soul_fortress": "2025-07-31 09:34:44 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_withered_abomination": {
+    "criteria": {
+      "abomination": "2025-07-31 09:34:54 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_skeletosaurus_nest": {
+    "criteria": {
+      "nest": "2025-07-31 09:36:00 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_skeletosaurus": {
+    "criteria": {
+      "skeletosaurus": "2025-07-31 09:36:13 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_lava_eater": {
+    "criteria": {
+      "lava_eater": "2025-07-31 09:37:21 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_lava_eater": {
+    "criteria": {
+      "ambusher": "2025-07-31 09:37:39 +0000"
+    },
+    "done": true
+  },
+  "pfm:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2025-08-01 00:45:59 +0000"
+    },
+    "done": true
+  },
+  "cnc:cnc": {
+    "criteria": {
+      "cnc_0": "2025-08-01 00:45:59 +0000"
     },
     "done": true
   },
