@@ -154,6 +154,7 @@
       "minecraft:witch": "2025-07-28 03:53:29 +0000",
       "minecraft:wither_skeleton": "2025-07-25 04:08:35 +0000",
       "minecraft:husk": "2025-07-25 04:30:07 +0000",
+      "minecraft:ender_dragon": "2025-08-01 01:09:14 +0000",
       "minecraft:shulker": "2025-07-28 22:05:30 +0000",
       "minecraft:cave_spider": "2025-07-25 04:04:38 +0000",
       "minecraft:piglin": "2025-07-26 20:14:51 +0000",
@@ -5257,21 +5258,9 @@
     },
     "done": true
   },
-  "mutantmonsters:root": {
-    "criteria": {
-      "killed_something": "2025-08-01 00:54:15 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/iron_microwave": {
     "criteria": {
       "has_iron_ingot": "2025-08-01 00:45:49 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/leather_leggings_repairing": {
-    "criteria": {
-      "has_leather_leggings": "2025-08-01 00:54:36 +0000"
     },
     "done": true
   },
@@ -5326,6 +5315,24 @@
   "pfm:recipes/furniture/iron_fridge": {
     "criteria": {
       "has_iron_ingot": "2025-08-01 00:45:49 +0000"
+    },
+    "done": true
+  },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_something": "2025-08-01 00:54:15 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_leggings_repairing": {
+    "criteria": {
+      "has_leather_leggings": "2025-08-01 00:54:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-08-01 01:09:14 +0000"
     },
     "done": true
   },
