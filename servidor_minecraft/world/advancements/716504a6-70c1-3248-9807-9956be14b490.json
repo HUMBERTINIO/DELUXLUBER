@@ -5258,69 +5258,9 @@
     },
     "done": true
   },
-  "pfm:recipes/furniture/iron_microwave": {
-    "criteria": {
-      "has_iron_ingot": "2025-08-01 00:45:49 +0000"
-    },
-    "done": true
-  },
-  "immersive_aircraft:misc/aircraftery": {
-    "criteria": {
-      "has_item": "2025-08-01 00:45:49 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/iron_freezer": {
-    "criteria": {
-      "has_iron_ingot": "2025-08-01 00:45:49 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/iron_stove": {
-    "criteria": {
-      "has_iron_ingot": "2025-08-01 00:45:49 +0000"
-    },
-    "done": true
-  },
-  "pfm:grant_book_on_first_join": {
-    "criteria": {
-      "tick": "2025-08-01 00:45:49 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/basic_shower_head": {
-    "criteria": {
-      "has_water_bucket": "2025-08-01 00:45:49 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/iron_oven_range_hood": {
-    "criteria": {
-      "has_iron_ingot": "2025-08-01 00:45:49 +0000"
-    },
-    "done": true
-  },
   "cnc:cnc": {
     "criteria": {
       "cnc_0": "2025-08-01 00:45:49 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/kitchen_stovetop": {
-    "criteria": {
-      "has_iron_ingot": "2025-08-01 00:45:49 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/iron_fridge": {
-    "criteria": {
-      "has_iron_ingot": "2025-08-01 00:45:49 +0000"
-    },
-    "done": true
-  },
-  "mutantmonsters:root": {
-    "criteria": {
-      "killed_something": "2025-08-01 00:54:15 +0000"
     },
     "done": true
   },
