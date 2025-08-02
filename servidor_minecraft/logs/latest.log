@@ -546,3 +546,66 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [02Aug2025 02:09:31.861] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'pfm:grant_book_on_first_join' in progress file ./world/advancements/e43ab439-6742-338a-b35f-7da80b1e63ae.json - it doesn't exist anymore?
 [02Aug2025 02:09:31.881] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: moshtro111876[/127.173.215.32:37835] logged in with entity id 1839 at (-1916.0, 63.0, 2945.0)
 [02Aug2025 02:09:31.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 joined the game
+[02Aug2025 02:09:31.956] [Server thread/INFO] [Jade/]: Syncing config to moshtro111876 (e43ab439-6742-338a-b35f-7da80b1e63ae)
+[02Aug2025 02:10:01.976] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moshtro111876 lost connection: Disconnected
+[02Aug2025 02:10:01.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 left the game
+[02Aug2025 02:10:02.022] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[02Aug2025 02:10:21.235] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: moshtro111876[/127.173.215.32:57457] logged in with entity id 2043 at (-1916.0, 63.0, 2945.0)
+[02Aug2025 02:10:21.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 joined the game
+[02Aug2025 02:10:21.313] [Server thread/INFO] [Jade/]: Syncing config to moshtro111876 (e43ab439-6742-338a-b35f-7da80b1e63ae)
+[02Aug2025 02:10:51.316] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moshtro111876 lost connection: Timed out
+[02Aug2025 02:10:51.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 left the game
+[02Aug2025 02:11:07.886] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: moshtro111876[/127.173.215.32:37313] logged in with entity id 2136 at (-1916.0, 63.0, 2945.0)
+[02Aug2025 02:11:07.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 joined the game
+[02Aug2025 02:11:07.954] [Server thread/INFO] [Jade/]: Syncing config to moshtro111876 (e43ab439-6742-338a-b35f-7da80b1e63ae)
+[02Aug2025 02:11:56.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> ya te deja
+[02Aug2025 02:12:00.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> XD?
+[02Aug2025 02:12:01.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> maso
+[02Aug2025 02:12:11.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> no te veo :v
+[02Aug2025 02:12:18.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> por la capa
+[02Aug2025 02:12:20.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> XD
+[02Aug2025 02:12:24.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> y no caen objetos cuando mino
+[02Aug2025 02:12:45.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> parece que ya
+[02Aug2025 02:12:51.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> okok
+[02Aug2025 02:12:58.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> puedes llamada¡
+[02Aug2025 02:12:59.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> chale yo que te iba amatar
+[02Aug2025 02:13:00.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> matar
+[02Aug2025 02:13:01.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> XD
+[02Aug2025 02:13:12.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> jugaere dos juegos a la vez
+[02Aug2025 02:13:13.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> :v
+[02Aug2025 02:13:21.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> pq me acaba de invitar mi novia
+[02Aug2025 02:13:26.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> y si viene isma seran 3
+[02Aug2025 02:13:27.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> XD
+[02Aug2025 02:13:28.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> XDDDDDDDDDD
+[02Aug2025 02:14:04.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> dame tu casco
+[02Aug2025 02:14:32.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Set own game mode to Creative Mode]
+[02Aug2025 02:14:35.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Set own game mode to Survival Mode]
+[02Aug2025 02:14:44.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> mira
+[02Aug2025 02:14:55.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> q cosa
+[02Aug2025 02:15:19.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> puedes apostar
+[02Aug2025 02:15:19.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> y q hace
+[02Aug2025 02:15:20.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> :V
+[02Aug2025 02:15:34.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovaniiYT15 has completed the challenge [Lucky Sevens]
+[02Aug2025 02:15:35.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> GANE
+[02Aug2025 02:15:37.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> XDDD
+[02Aug2025 02:15:38.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> apuesta lo de tu mano isquierda
+[02Aug2025 02:15:43.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> 4 totems
+[02Aug2025 02:15:44.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> XDDD
+[02Aug2025 02:15:45.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> XD
+[02Aug2025 02:15:50.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> y no se que aposte
+[02Aug2025 02:15:51.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> XDD
+[02Aug2025 02:15:54.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> es medio baja la probabilidad
+[02Aug2025 02:16:01.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> XD
+[02Aug2025 02:16:30.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> XD
+[02Aug2025 02:16:32.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> ten
+[02Aug2025 02:16:56.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> aa good
+[02Aug2025 02:17:05.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> no tiene nada vea
+[02Aug2025 02:17:10.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> no XD
+[02Aug2025 02:17:21.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovaniiYT15 has completed the challenge [Serious Cherries]
+[02Aug2025 02:17:26.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> XD
+[02Aug2025 02:17:29.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> te agachas y le das para usar
+[02Aug2025 02:17:48.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> para pomerle musica a la ocarina
+[02Aug2025 02:18:06.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> pera
+[02Aug2025 02:18:08.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> q el pin
+[02Aug2025 02:18:10.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> ta cabron
+[02Aug2025 02:18:10.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> XD

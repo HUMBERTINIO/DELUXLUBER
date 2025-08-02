@@ -6676,12 +6676,6 @@
     },
     "done": true
   },
-  "pfm:grant_book_on_first_join": {
-    "criteria": {
-      "tick": "2025-08-01 00:45:59 +0000"
-    },
-    "done": true
-  },
   "cnc:cnc": {
     "criteria": {
       "cnc_0": "2025-08-01 00:45:59 +0000"
