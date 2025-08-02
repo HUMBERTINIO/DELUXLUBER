@@ -5276,27 +5276,27 @@
     },
     "done": true
   },
-  "terramity:lucky_cherries_advancement": {
-    "criteria": {
-      "lucky_cherries_advancement_0": "2025-08-02 02:17:21 +0000"
-    },
-    "done": true
-  },
   "terramity:lucky_sevens_advancement": {
     "criteria": {
       "lucky_sevens_advancement_0": "2025-08-02 02:15:34 +0000"
     },
     "done": true
   },
-  "terramity:when_life_gives_you_lemons": {
+  "terramity:lucky_cherries_advancement": {
     "criteria": {
-      "when_life_gives_you_lemons_0": "2025-08-02 02:27:19 +0000"
+      "lucky_cherries_advancement_0": "2025-08-02 02:17:21 +0000"
     },
     "done": true
   },
   "terramity:most_gamblers_quit_advancement": {
     "criteria": {
       "most_gamblers_quit_advancement_0": "2025-08-02 02:20:55 +0000"
+    },
+    "done": true
+  },
+  "terramity:when_life_gives_you_lemons": {
+    "criteria": {
+      "when_life_gives_you_lemons_0": "2025-08-02 02:27:19 +0000"
     },
     "done": true
   },

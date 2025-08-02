@@ -679,3 +679,145 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [02Aug2025 02:38:21.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> lo que saque
 [02Aug2025 02:38:22.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> XDDDD
 [02Aug2025 02:38:38.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> diavlo
+[02Aug2025 02:40:25.917] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moshtro111876 lost connection: Timed out
+[02Aug2025 02:40:25.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 left the game
+[02Aug2025 02:40:29.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> XD
+[02Aug2025 02:40:51.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Set own game mode to Creative Mode]
+[02Aug2025 02:41:01.286] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: moshtro111876[/127.173.215.32:32815] logged in with entity id 10536 at (-1838.6419370342567, 63.875, 3007.905521784957)
+[02Aug2025 02:41:01.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 joined the game
+[02Aug2025 02:41:01.333] [Server thread/INFO] [Jade/]: Syncing config to moshtro111876 (e43ab439-6742-338a-b35f-7da80b1e63ae)
+[02Aug2025 02:41:07.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Set own game mode to Survival Mode]
+[02Aug2025 02:41:30.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> XD
+[02Aug2025 02:41:31.374] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moshtro111876 lost connection: Timed out
+[02Aug2025 02:41:31.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 left the game
+[02Aug2025 02:42:08.881] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: moshtro111876[/127.173.215.32:58429] logged in with entity id 10815 at (-1838.6419370342567, 63.875, 3007.905521784957)
+[02Aug2025 02:42:08.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 joined the game
+[02Aug2025 02:42:08.924] [Server thread/INFO] [Jade/]: Syncing config to moshtro111876 (e43ab439-6742-338a-b35f-7da80b1e63ae)
+[02Aug2025 02:42:39.019] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moshtro111876 lost connection: Timed out
+[02Aug2025 02:42:39.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 left the game
+[02Aug2025 02:42:48.788] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: moshtro111876[/127.173.215.32:53327] logged in with entity id 10974 at (-1838.6419370342567, 63.875, 3007.905521784957)
+[02Aug2025 02:42:48.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 joined the game
+[02Aug2025 02:42:48.835] [Server thread/INFO] [Jade/]: Syncing config to moshtro111876 (e43ab439-6742-338a-b35f-7da80b1e63ae)
+[02Aug2025 02:43:18.871] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moshtro111876 lost connection: Timed out
+[02Aug2025 02:43:18.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 left the game
+[02Aug2025 02:43:53.785] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: moshtro111876[/127.173.215.32:47203] logged in with entity id 11231 at (-1838.6419370342567, 63.875, 3007.905521784957)
+[02Aug2025 02:43:53.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 joined the game
+[02Aug2025 02:43:53.830] [Server thread/INFO] [Jade/]: Syncing config to moshtro111876 (e43ab439-6742-338a-b35f-7da80b1e63ae)
+[02Aug2025 02:44:23.869] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moshtro111876 lost connection: Timed out
+[02Aug2025 02:44:23.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 left the game
+[02Aug2025 02:45:09.781] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: moshtro111876[/127.173.215.32:60243] logged in with entity id 11478 at (-1838.6419370342567, 63.875, 3007.905521784957)
+[02Aug2025 02:45:09.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 joined the game
+[02Aug2025 02:45:09.826] [Server thread/INFO] [Jade/]: Syncing config to moshtro111876 (e43ab439-6742-338a-b35f-7da80b1e63ae)
+[02Aug2025 02:45:39.871] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moshtro111876 lost connection: Timed out
+[02Aug2025 02:45:39.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 left the game
+[02Aug2025 02:46:19.080] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: moshtro111876[/127.173.215.32:50599] logged in with entity id 11823 at (-1838.6419370342567, 63.875, 3007.905521784957)
+[02Aug2025 02:46:19.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 joined the game
+[02Aug2025 02:46:19.131] [Server thread/INFO] [Jade/]: Syncing config to moshtro111876 (e43ab439-6742-338a-b35f-7da80b1e63ae)
+[02Aug2025 02:46:49.216] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moshtro111876 lost connection: Timed out
+[02Aug2025 02:46:49.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 left the game
+[02Aug2025 02:47:52.269] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: moshtro111876[/127.173.215.32:50895] logged in with entity id 12804 at (-1838.6419370342567, 63.875, 3007.905521784957)
+[02Aug2025 02:47:52.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 joined the game
+[02Aug2025 02:47:52.278] [Server thread/INFO] [Jade/]: Syncing config to moshtro111876 (e43ab439-6742-338a-b35f-7da80b1e63ae)
+[02Aug2025 02:48:22.424] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moshtro111876 lost connection: Timed out
+[02Aug2025 02:48:22.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 left the game
+[02Aug2025 02:49:08.633] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: moshtro111876[/127.173.215.32:58879] logged in with entity id 13724 at (-1838.6419370342567, 63.875, 3007.905521784957)
+[02Aug2025 02:49:08.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 joined the game
+[02Aug2025 02:49:08.686] [Server thread/INFO] [Jade/]: Syncing config to moshtro111876 (e43ab439-6742-338a-b35f-7da80b1e63ae)
+[02Aug2025 02:49:38.721] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moshtro111876 lost connection: Timed out
+[02Aug2025 02:49:38.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 left the game
+[02Aug2025 02:50:28.882] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: moshtro111876[/127.173.215.32:57587] logged in with entity id 13929 at (-1838.6419370342567, 63.875, 3007.905521784957)
+[02Aug2025 02:50:28.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 joined the game
+[02Aug2025 02:50:28.920] [Server thread/INFO] [Jade/]: Syncing config to moshtro111876 (e43ab439-6742-338a-b35f-7da80b1e63ae)
+[02Aug2025 02:50:36.165] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GiovaniiYT15 lost connection: Disconnected
+[02Aug2025 02:50:36.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovaniiYT15 left the game
+[02Aug2025 02:50:42.929] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GiovaniiYT15[/127.188.109.205:48763] logged in with entity id 14028 at (-1900.69114462754, 63.0, 2944.6563269945605)
+[02Aug2025 02:50:42.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovaniiYT15 joined the game
+[02Aug2025 02:50:42.984] [Server thread/INFO] [Jade/]: Syncing config to GiovaniiYT15 (716504a6-70c1-3248-9807-9956be14b490)
+[02Aug2025 02:50:58.967] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moshtro111876 lost connection: Timed out
+[02Aug2025 02:50:58.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 left the game
+[02Aug2025 02:51:01.198] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [cnc:cnc] rejected their client side version number
+[02Aug2025 02:51:01.198] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[02Aug2025 02:51:01.220] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2a1ff926[id=<null>,name=Nightmare73lb,properties={},legacy=false] (/127.125.1.66:50913) lost connection: Connection closed - mismatched mod channel list
+[02Aug2025 02:51:29.529] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: moshtro111876[/127.173.215.32:33487] logged in with entity id 14281 at (-1838.6419370342567, 63.875, 3007.905521784957)
+[02Aug2025 02:51:29.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 joined the game
+[02Aug2025 02:51:29.563] [Server thread/INFO] [Jade/]: Syncing config to moshtro111876 (e43ab439-6742-338a-b35f-7da80b1e63ae)
+[02Aug2025 02:51:59.617] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moshtro111876 lost connection: Timed out
+[02Aug2025 02:51:59.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 left the game
+[02Aug2025 02:53:57.615] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GiovaniiYT15 lost connection: Disconnected
+[02Aug2025 02:53:57.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovaniiYT15 left the game
+[02Aug2025 02:53:57.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[02Aug2025 02:53:57.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[02Aug2025 02:53:57.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[02Aug2025 02:53:57.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02Aug2025 02:53:57.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02Aug2025 02:53:57.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[02Aug2025 02:53:57.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02Aug2025 02:53:57.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[02Aug2025 02:53:58.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02Aug2025 02:53:58.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02Aug2025 02:53:58.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[02Aug2025 02:53:58.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02Aug2025 02:53:58.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[02Aug2025 02:53:58.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02Aug2025 02:53:58.029] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.boss_randomizer from Raids to prevent a post-mod-removal crash
+[02Aug2025 02:53:58.029] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.igniter from Raids to prevent a post-mod-removal crash
+[02Aug2025 02:53:58.029] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.engineer from Raids to prevent a post-mod-removal crash
+[02Aug2025 02:53:58.029] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.twittollager from Raids to prevent a post-mod-removal crash
+[02Aug2025 02:53:58.029] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.magispeller from Raids to prevent a post-mod-removal crash
+[02Aug2025 02:53:58.029] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.spiritcaller from Raids to prevent a post-mod-removal crash
+[02Aug2025 02:53:58.029] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.crocofang from Raids to prevent a post-mod-removal crash
+[02Aug2025 02:53:58.029] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.absorber from Raids to prevent a post-mod-removal crash
+[02Aug2025 02:53:58.029] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.preserver from Raids to prevent a post-mod-removal crash
+[02Aug2025 02:53:58.029] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.freakager from Raids to prevent a post-mod-removal crash
+[02Aug2025 02:53:58.029] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_freakager from Raids to prevent a post-mod-removal crash
+[02Aug2025 02:53:58.029] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_magispeller from Raids to prevent a post-mod-removal crash
+[02Aug2025 02:53:58.037] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.boss_randomizer from Raids to prevent a post-mod-removal crash
+[02Aug2025 02:53:58.037] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.igniter from Raids to prevent a post-mod-removal crash
+[02Aug2025 02:53:58.037] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.engineer from Raids to prevent a post-mod-removal crash
+[02Aug2025 02:53:58.037] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.twittollager from Raids to prevent a post-mod-removal crash
+[02Aug2025 02:53:58.037] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.magispeller from Raids to prevent a post-mod-removal crash
+[02Aug2025 02:53:58.037] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.spiritcaller from Raids to prevent a post-mod-removal crash
+[02Aug2025 02:53:58.037] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.crocofang from Raids to prevent a post-mod-removal crash
+[02Aug2025 02:53:58.038] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.absorber from Raids to prevent a post-mod-removal crash
+[02Aug2025 02:53:58.038] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.preserver from Raids to prevent a post-mod-removal crash
+[02Aug2025 02:53:58.038] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.freakager from Raids to prevent a post-mod-removal crash
+[02Aug2025 02:53:58.038] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_freakager from Raids to prevent a post-mod-removal crash
+[02Aug2025 02:53:58.038] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_magispeller from Raids to prevent a post-mod-removal crash
+[02Aug2025 02:53:58.047] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.boss_randomizer from Raids to prevent a post-mod-removal crash
+[02Aug2025 02:53:58.047] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.igniter from Raids to prevent a post-mod-removal crash
+[02Aug2025 02:53:58.047] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.engineer from Raids to prevent a post-mod-removal crash
+[02Aug2025 02:53:58.047] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.twittollager from Raids to prevent a post-mod-removal crash
+[02Aug2025 02:53:58.047] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.magispeller from Raids to prevent a post-mod-removal crash
+[02Aug2025 02:53:58.047] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.spiritcaller from Raids to prevent a post-mod-removal crash
+[02Aug2025 02:53:58.047] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.crocofang from Raids to prevent a post-mod-removal crash
+[02Aug2025 02:53:58.048] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.absorber from Raids to prevent a post-mod-removal crash
+[02Aug2025 02:53:58.048] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.preserver from Raids to prevent a post-mod-removal crash
+[02Aug2025 02:53:58.048] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.freakager from Raids to prevent a post-mod-removal crash
+[02Aug2025 02:53:58.048] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_freakager from Raids to prevent a post-mod-removal crash
+[02Aug2025 02:53:58.048] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_magispeller from Raids to prevent a post-mod-removal crash
+[02Aug2025 02:53:58.048] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.boss_randomizer from Raids to prevent a post-mod-removal crash
+[02Aug2025 02:53:58.048] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.igniter from Raids to prevent a post-mod-removal crash
+[02Aug2025 02:53:58.048] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.engineer from Raids to prevent a post-mod-removal crash
+[02Aug2025 02:53:58.048] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.twittollager from Raids to prevent a post-mod-removal crash
+[02Aug2025 02:53:58.048] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.magispeller from Raids to prevent a post-mod-removal crash
+[02Aug2025 02:53:58.048] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.spiritcaller from Raids to prevent a post-mod-removal crash
+[02Aug2025 02:53:58.048] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.crocofang from Raids to prevent a post-mod-removal crash
+[02Aug2025 02:53:58.048] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.absorber from Raids to prevent a post-mod-removal crash
+[02Aug2025 02:53:58.048] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.preserver from Raids to prevent a post-mod-removal crash
+[02Aug2025 02:53:58.048] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.freakager from Raids to prevent a post-mod-removal crash
+[02Aug2025 02:53:58.048] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_freakager from Raids to prevent a post-mod-removal crash
+[02Aug2025 02:53:58.048] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_magispeller from Raids to prevent a post-mod-removal crash
+[02Aug2025 02:53:58.049] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.boss_randomizer from Raids to prevent a post-mod-removal crash
+[02Aug2025 02:53:58.049] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.igniter from Raids to prevent a post-mod-removal crash
+[02Aug2025 02:53:58.049] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.engineer from Raids to prevent a post-mod-removal crash
+[02Aug2025 02:53:58.049] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.twittollager from Raids to prevent a post-mod-removal crash
+[02Aug2025 02:53:58.049] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.magispeller from Raids to prevent a post-mod-removal crash
+[02Aug2025 02:53:58.049] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.spiritcaller from Raids to prevent a post-mod-removal crash
+[02Aug2025 02:53:58.049] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.crocofang from Raids to prevent a post-mod-removal crash
+[02Aug2025 02:53:58.049] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.absorber from Raids to prevent a post-mod-removal crash
+[02Aug2025 02:53:58.049] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.preserver from Raids to prevent a post-mod-removal crash
+[02Aug2025 02:53:58.049] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.freakager from Raids to prevent a post-mod-removal crash
+[02Aug2025 02:53:58.049] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_freakager from Raids to prevent a post-mod-removal crash
+[02Aug2025 02:53:58.049] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_magispeller from Raids to prevent a post-mod-removal crash
+[02Aug2025 02:53:58.052] [Server thread/INFO] [Framework/]: Unloading server configs...
+[02Aug2025 02:53:58.053] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
