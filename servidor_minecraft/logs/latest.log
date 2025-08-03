@@ -977,3 +977,8 @@ java.lang.ClassNotFoundException: net.minecraft.util.random.WeightedEntry$Intrus
 [03Aug2025 21:56:22.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elunico247k was slain by GiovaniiYT15
 [03Aug2025 21:56:22.964] [Server thread/INFO] [tombstone/]: The player Elunico247k has successfully been saved
 [03Aug2025 21:56:34.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Teleported Elunico247k to GiovaniiYT15]
+[03Aug2025 21:58:31.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elunico247k was slain by GiovaniiYT15
+[03Aug2025 21:58:31.649] [Server thread/INFO] [tombstone/]: The player Elunico247k has successfully been saved
+[03Aug2025 22:00:02.906] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elunico247k lost connection: Disconnected
+[03Aug2025 22:00:02.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elunico247k left the game
+[03Aug2025 22:00:13.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Set own game mode to Survival Mode]

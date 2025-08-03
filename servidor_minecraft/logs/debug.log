@@ -11707,3 +11707,12 @@ java.lang.ClassNotFoundException: net.minecraft.util.random.WeightedEntry$Intrus
 [03Aug2025 21:56:34.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Teleported Elunico247k to GiovaniiYT15]
 [03Aug2025 21:57:35.907] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Aug2025 21:57:35.923] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Aug2025 21:58:31.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elunico247k was slain by GiovaniiYT15
+[03Aug2025 21:58:31.649] [Server thread/INFO] [tombstone/]: The player Elunico247k has successfully been saved
+[03Aug2025 22:00:02.906] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elunico247k lost connection: Disconnected
+[03Aug2025 22:00:02.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elunico247k left the game
+[03Aug2025 22:00:13.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Set own game mode to Survival Mode]
+[03Aug2025 22:02:35.911] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Aug2025 22:02:35.927] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Aug2025 22:07:35.914] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Aug2025 22:07:35.929] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
