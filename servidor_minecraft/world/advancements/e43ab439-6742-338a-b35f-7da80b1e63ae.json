@@ -8303,5 +8303,17 @@
     },
     "done": true
   },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2025-08-03 23:15:30 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-08-03 23:16:27 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

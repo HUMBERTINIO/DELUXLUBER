@@ -7108,12 +7108,6 @@
     },
     "done": true
   },
-  "another_furniture:recipes/oak_chair": {
-    "criteria": {
-      "has_planks": "2025-08-03 22:20:02 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/orange_arm_chair": {
     "criteria": {
       "has_wool": "2025-08-03 22:14:09 +0000"
@@ -7150,12 +7144,6 @@
     },
     "done": true
   },
-  "supplementaries:recipes/flint_block": {
-    "criteria": {
-      "has_flint": "2025-08-03 22:23:07 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/brown_arm_chair": {
     "criteria": {
       "has_wool": "2025-08-03 22:14:09 +0000"
@@ -7165,12 +7153,6 @@
   "pfm:recipes/furniture/purple_simple_sofa": {
     "criteria": {
       "has_wool": "2025-08-03 22:14:09 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/bellows": {
-    "criteria": {
-      "has_leather": "2025-08-03 22:14:10 +0000"
     },
     "done": true
   },
@@ -7189,12 +7171,6 @@
   "pfm:recipes/furniture/blue_arm_chair": {
     "criteria": {
       "has_wool": "2025-08-03 22:14:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/oak_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-08-03 22:14:10 +0000"
     },
     "done": true
   },
@@ -7228,21 +7204,9 @@
     },
     "done": true
   },
-  "another_furniture:recipes/oak_shelf": {
-    "criteria": {
-      "has_planks": "2025-08-03 22:20:02 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/brown_simple_sofa": {
     "criteria": {
       "has_wool": "2025-08-03 22:14:09 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/combine_in_inventory": {
-    "criteria": {
-      "coded_trigger": "2025-08-03 22:21:57 +0000"
     },
     "done": true
   },
@@ -7255,12 +7219,6 @@
   "pfm:recipes/furniture/white_arm_chair": {
     "criteria": {
       "has_wool": "2025-08-03 22:14:09 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/oak_table": {
-    "criteria": {
-      "has_planks": "2025-08-03 22:20:02 +0000"
     },
     "done": true
   },
@@ -7294,27 +7252,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/teleport_to_grave": {
-    "criteria": {
-      "coded_trigger": "2025-08-03 22:23:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_oak_wood": {
-    "criteria": {
-      "has_log": "2025-08-03 22:14:10 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/magenta_arm_chair": {
     "criteria": {
       "has_wool": "2025-08-03 22:14:09 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/enchant_grave_key": {
-    "criteria": {
-      "has_upgraded_grave_key": "2025-08-03 22:21:57 +0000"
     },
     "done": true
   },
@@ -7333,6 +7273,85 @@
   "pfm:recipes/furniture/cyan_simple_sofa": {
     "criteria": {
       "has_wool": "2025-08-03 22:14:09 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bellows": {
+    "criteria": {
+      "has_leather": "2025-08-03 22:14:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-08-03 22:14:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-08-03 22:14:10 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/oak_chair": {
+    "criteria": {
+      "has_planks": "2025-08-03 22:20:02 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/oak_shelf": {
+    "criteria": {
+      "has_planks": "2025-08-03 22:20:02 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/oak_table": {
+    "criteria": {
+      "has_planks": "2025-08-03 22:20:02 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/combine_in_inventory": {
+    "criteria": {
+      "coded_trigger": "2025-08-03 22:21:57 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-08-03 22:21:57 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flint_block": {
+    "criteria": {
+      "has_flint": "2025-08-03 22:23:07 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-08-03 22:23:32 +0000"
+    },
+    "done": true
+  },
+  "terramity:stone_mask_advancement": {
+    "criteria": {
+      "stone_mask_advancement_0": "2025-08-03 23:14:20 +0000"
+    },
+    "done": true
+  },
+  "adorabuild_structures:fireproof": {
+    "criteria": {
+      "blackstone_bastion_medium_1": "2025-08-03 23:11:08 +0000",
+      "blackstone_temple_small_1": "2025-08-03 23:10:41 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-08-03 23:14:47 +0000"
     },
     "done": true
   },

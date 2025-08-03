@@ -1018,3 +1018,42 @@ java.lang.ClassNotFoundException: net.minecraft.util.random.WeightedEntry$Intrus
 [03Aug2025 23:08:40.498] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: moshtro111876[/127.173.215.32:58803] logged in with entity id 31559 at (-1875.762447913213, 62.9375, 2929.7328731220764)
 [03Aug2025 23:08:40.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 joined the game
 [03Aug2025 23:08:40.510] [Server thread/INFO] [Jade/]: Syncing config to moshtro111876 (e43ab439-6742-338a-b35f-7da80b1e63ae)
+[03Aug2025 23:09:56.465] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nightmare73lb[/127.205.190.144:50333] logged in with entity id 32050 at (917.6999999880791, 77.0, -635.3198288904147)
+[03Aug2025 23:09:56.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb joined the game
+[03Aug2025 23:09:56.476] [Server thread/INFO] [Jade/]: Syncing config to Nightmare73lb (80c5e0bf-a90a-3ea0-a3b8-c3ff885f2d8e)
+[03Aug2025 23:12:58.261] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GiovaniiYT15[/127.188.109.205:36161] logged in with entity id 33555 at (-1885.510962130616, 57.0, 2940.388716413415)
+[03Aug2025 23:12:58.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovaniiYT15 joined the game
+[03Aug2025 23:12:58.308] [Server thread/INFO] [Jade/]: Syncing config to GiovaniiYT15 (716504a6-70c1-3248-9807-9956be14b490)
+[03Aug2025 23:13:32.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovaniiYT15 was slain by moshtro111876
+[03Aug2025 23:13:32.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovaniiYT15 has made the advancement [Your First Grave]
+[03Aug2025 23:13:32.413] [Server thread/INFO] [tombstone/]: The player GiovaniiYT15 has successfully been saved
+[03Aug2025 23:13:32.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> magia?
+[03Aug2025 23:14:20.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb has reached the goal [I Reject My Humanity!]
+[03Aug2025 23:14:22.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> mames
+[03Aug2025 23:14:24.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> y mis cosas
+[03Aug2025 23:14:34.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> no hay nada
+[03Aug2025 23:14:34.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovaniiYT15 has reached the goal [Chain Death]
+[03Aug2025 23:14:34.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovaniiYT15 was slain by moshtro111876
+[03Aug2025 23:14:34.918] [Server thread/INFO] [tombstone/]: The player GiovaniiYT15 has successfully been saved
+[03Aug2025 23:14:47.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb has made the advancement [Funeral Theft]
+[03Aug2025 23:15:04.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> se pueden robar pq si no se
+[03Aug2025 23:15:24.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> yo tengo todo
+[03Aug2025 23:15:30.110] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/31652, l='ServerLevel[world]', x=-1891.33, y=63.00, z=2915.50] died, message: 'Librarian was slain by moshtro111876'
+[03Aug2025 23:15:30.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 has made the advancement [Neighborhood Brawl]
+[03Aug2025 23:15:37.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> me escucharon?
+[03Aug2025 23:15:55.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1$s has perished from holy damage
+[03Aug2025 23:15:55.110] [Server thread/INFO] [tombstone/]: The player moshtro111876 has successfully been saved
+[03Aug2025 23:16:05.804] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GiovaniiYT15 lost connection: Disconnected
+[03Aug2025 23:16:05.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovaniiYT15 left the game
+[03Aug2025 23:16:17.500] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@d5d3ce4[id=<null>,name=GiovaniiYT15,properties={},legacy=false] (/127.188.109.205:55199) lost connection: Disconnected
+[03Aug2025 23:16:22.013] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GiovaniiYT15[/127.188.109.205:46265] logged in with entity id 34363 at (-1899.1897492356027, 63.0, 2921.8098517560793)
+[03Aug2025 23:16:22.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovaniiYT15 joined the game
+[03Aug2025 23:16:22.072] [Server thread/INFO] [Jade/]: Syncing config to GiovaniiYT15 (716504a6-70c1-3248-9807-9956be14b490)
+[03Aug2025 23:16:26.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1$s has perished from holy damage
+[03Aug2025 23:16:26.056] [Server thread/INFO] [tombstone/]: The player GiovaniiYT15 has successfully been saved
+[03Aug2025 23:16:27.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 has made the advancement [Funeral Theft]
+[03Aug2025 23:18:56.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 didn't want to live in the same world as Nightmare73lb
+[03Aug2025 23:18:56.663] [Server thread/INFO] [tombstone/]: The player moshtro111876 has successfully been saved
+[03Aug2025 23:18:59.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Set own game mode to Creative Mode]
+[03Aug2025 23:19:04.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 has reached the goal [A Fast Comeback]
+[03Aug2025 23:19:14.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Set own game mode to Survival Mode]
