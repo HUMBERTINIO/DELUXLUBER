@@ -986,3 +986,8 @@ java.lang.ClassNotFoundException: net.minecraft.util.random.WeightedEntry$Intrus
 [03Aug2025 22:11:43.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb joined the game
 [03Aug2025 22:11:43.662] [Server thread/INFO] [Jade/]: Syncing config to Nightmare73lb (80c5e0bf-a90a-3ea0-a3b8-c3ff885f2d8e)
 [03Aug2025 22:13:33.208] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2123ms or 42 ticks behind
+[03Aug2025 22:21:57.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb has made the advancement [The Most Useful Key]
+[03Aug2025 22:21:57.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb has made the advancement [Quickly Applied]
+[03Aug2025 22:23:32.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb has reached the goal [A Fast Comeback]
+[03Aug2025 22:25:04.360] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nightmare73lb lost connection: Disconnected
+[03Aug2025 22:25:04.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb left the game
