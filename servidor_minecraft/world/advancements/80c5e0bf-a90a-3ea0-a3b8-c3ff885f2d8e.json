@@ -6719,15 +6719,109 @@
     },
     "done": true
   },
-  "supplementaries:recipes/timber_cross_brace": {
+  "supplementaries:recipes/checker": {
     "criteria": {
-      "forge:rods/wooden": "2025-08-02 09:18:39 +0000"
+      "has_cobblestone": "2025-08-02 09:00:41 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/crystal_display": {
+    "criteria": {
+      "has_deepslate": "2025-08-02 09:01:00 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/deepslate_lamp": {
+    "criteria": {
+      "has_deepslate": "2025-08-02 09:01:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-08-02 09:01:18 +0000"
     },
     "done": true
   },
   "graveyard:graveyard/crypt": {
     "criteria": {
       "crypt": "2025-08-02 09:01:27 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_spruce": {
+    "criteria": {
+      "has_the_recipe": "2025-08-02 09:01:55 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_spruce": {
+    "criteria": {
+      "has_spruce_sign": "2025-08-02 09:01:55 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_wraith": {
+    "criteria": {
+      "wraith": "2025-08-02 09:02:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-08-02 09:03:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-08-02 09:04:44 +0000"
+    },
+    "done": true
+  },
+  "terramity:warden_soul_advancement": {
+    "criteria": {
+      "warden_soul_advancement_0": "2025-08-02 09:04:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-08-02 09:13:02 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-08-02 09:13:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2025-08-02 09:13:02 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-08-02 09:16:03 +0000"
+    },
+    "done": true
+  },
+  "illageandspillage:kill_all_iands": {
+    "criteria": {
+      "illageandspillage:preserver": "2025-08-02 09:17:38 +0000",
+      "illageandspillage:absorber": "2025-08-02 09:18:44 +0000",
+      "illageandspillage:engineer": "2025-08-02 09:17:40 +0000",
+      "illageandspillage:igniter": "2025-08-02 09:17:42 +0000",
+      "illageandspillage:crocofang": "2025-08-02 09:16:29 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/timber_cross_brace": {
+    "criteria": {
+      "forge:rods/wooden": "2025-08-02 09:18:39 +0000"
     },
     "done": true
   },
@@ -6767,45 +6861,9 @@
     },
     "done": true
   },
-  "adorabuild_structures:end_structures": {
-    "criteria": {
-      "example": "2025-08-02 09:35:24 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/gold_trapdoor": {
-    "criteria": {
-      "has_gold_ingot": "2025-08-02 09:53:16 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/checker": {
-    "criteria": {
-      "has_cobblestone": "2025-08-02 09:00:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/beehive": {
-    "criteria": {
-      "has_honeycomb": "2025-08-02 09:13:02 +0000"
-    },
-    "done": true
-  },
   "another_furniture:recipes/dark_oak_drawer": {
     "criteria": {
       "has_planks": "2025-08-02 09:18:39 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candle_holders/candle_holder_white_dye": {
-    "criteria": {
-      "forge:dyes/white": "2025-08-02 09:53:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/black_dye_from_wither_rose": {
-    "criteria": {
-      "has_wither_rose": "2025-08-02 09:03:37 +0000"
     },
     "done": true
   },
@@ -6815,33 +6873,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/decorations/sign_post_spruce": {
-    "criteria": {
-      "has_the_recipe": "2025-08-02 09:01:55 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/flags/flag_light_blue": {
     "criteria": {
       "has_stick": "2025-08-02 09:18:39 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/cancel_ghostly_shape": {
-    "criteria": {
-      "coded_trigger": "2025-08-02 09:52:29 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/fortuitous_militia": {
-    "criteria": {
-      "coded_trigger": "2025-08-02 09:16:03 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/blackboard": {
-    "criteria": {
-      "supplementaries:blackboard_white": "2025-08-02 09:53:45 +0000"
     },
     "done": true
   },
@@ -6869,31 +6903,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/sign_post_spruce": {
-    "criteria": {
-      "has_spruce_sign": "2025-08-02 09:01:55 +0000"
-    },
-    "done": true
-  },
-  "illageandspillage:kill_all_iands": {
-    "criteria": {
-      "illageandspillage:preserver": "2025-08-02 09:17:38 +0000",
-      "illageandspillage:absorber": "2025-08-02 09:18:44 +0000",
-      "illageandspillage:engineer": "2025-08-02 09:17:40 +0000",
-      "illageandspillage:igniter": "2025-08-02 09:17:42 +0000",
-      "illageandspillage:crocofang": "2025-08-02 09:16:29 +0000"
-    },
-    "done": false
-  },
   "another_furniture:recipes/spruce_drawer": {
     "criteria": {
       "has_planks": "2025-08-02 09:18:39 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/crystal_display": {
-    "criteria": {
-      "has_deepslate": "2025-08-02 09:01:00 +0000"
     },
     "done": true
   },
@@ -6909,21 +6921,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/key": {
-    "criteria": {
-      "has_gold_ingot": "2025-08-02 09:53:16 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/flags/flag_pink": {
     "criteria": {
       "has_stick": "2025-08-02 09:18:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
-    "criteria": {
-      "kill_mob_near_sculk_catalyst": "2025-08-02 09:04:44 +0000"
     },
     "done": true
   },
@@ -6933,21 +6933,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/deepslate_lamp": {
-    "criteria": {
-      "has_deepslate": "2025-08-02 09:01:00 +0000"
-    },
-    "done": true
-  },
   "another_furniture:recipes/crimson_drawer": {
     "criteria": {
       "has_planks": "2025-08-02 09:18:39 +0000"
-    },
-    "done": true
-  },
-  "graveyard:graveyard/kill_wraith": {
-    "criteria": {
-      "wraith": "2025-08-02 09:02:31 +0000"
     },
     "done": true
   },
@@ -6960,12 +6948,6 @@
   "supplementaries:recipes/timber_brace": {
     "criteria": {
       "forge:rods/wooden": "2025-08-02 09:18:39 +0000"
-    },
-    "done": true
-  },
-  "terramity:warden_soul_advancement": {
-    "criteria": {
-      "warden_soul_advancement_0": "2025-08-02 09:04:47 +0000"
     },
     "done": true
   },
@@ -6990,18 +6972,6 @@
   "another_furniture:recipes/bamboo_drawer": {
     "criteria": {
       "has_planks": "2025-08-02 09:18:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/avoid_vibration": {
-    "criteria": {
-      "avoid_vibration": "2025-08-02 09:01:18 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/decorations/skyroot_beehive": {
-    "criteria": {
-      "has_honeycomb": "2025-08-02 09:13:02 +0000"
     },
     "done": true
   },
@@ -7035,12 +7005,6 @@
     },
     "done": true
   },
-  "supplementaries:recipes/gold_door": {
-    "criteria": {
-      "has_gold_ingot": "2025-08-02 09:53:16 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/flags/flag_purple": {
     "criteria": {
       "has_stick": "2025-08-02 09:18:39 +0000"
@@ -7065,15 +7029,267 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/honeycomb_block": {
-    "criteria": {
-      "has_honeycomb": "2025-08-02 09:13:02 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/flags/flag_lime": {
     "criteria": {
       "has_stick": "2025-08-02 09:18:39 +0000"
+    },
+    "done": true
+  },
+  "adorabuild_structures:end_structures": {
+    "criteria": {
+      "example": "2025-08-02 09:35:24 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-08-02 09:52:29 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/gold_trapdoor": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-02 09:53:16 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/key": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-02 09:53:16 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/gold_door": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-02 09:53:16 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_white_dye": {
+    "criteria": {
+      "forge:dyes/white": "2025-08-02 09:53:45 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackboard": {
+    "criteria": {
+      "supplementaries:blackboard_white": "2025-08-02 09:53:45 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/yellow_arm_chair": {
+    "criteria": {
+      "has_wool": "2025-08-03 22:14:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/lime_simple_sofa": {
+    "criteria": {
+      "has_wool": "2025-08-03 22:14:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/light_gray_arm_chair": {
+    "criteria": {
+      "has_wool": "2025-08-03 22:14:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/green_arm_chair": {
+    "criteria": {
+      "has_wool": "2025-08-03 22:14:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/pink_arm_chair": {
+    "criteria": {
+      "has_wool": "2025-08-03 22:14:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/orange_arm_chair": {
+    "criteria": {
+      "has_wool": "2025-08-03 22:14:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/lime_arm_chair": {
+    "criteria": {
+      "has_wool": "2025-08-03 22:14:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/light_gray_simple_sofa": {
+    "criteria": {
+      "has_wool": "2025-08-03 22:14:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/red_simple_sofa": {
+    "criteria": {
+      "has_wool": "2025-08-03 22:14:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/magenta_simple_sofa": {
+    "criteria": {
+      "has_wool": "2025-08-03 22:14:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/yellow_simple_sofa": {
+    "criteria": {
+      "has_wool": "2025-08-03 22:14:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/brown_arm_chair": {
+    "criteria": {
+      "has_wool": "2025-08-03 22:14:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/purple_simple_sofa": {
+    "criteria": {
+      "has_wool": "2025-08-03 22:14:09 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bellows": {
+    "criteria": {
+      "has_leather": "2025-08-03 22:14:10 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/green_simple_sofa": {
+    "criteria": {
+      "has_wool": "2025-08-03 22:14:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/white_simple_sofa": {
+    "criteria": {
+      "has_wool": "2025-08-03 22:14:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/blue_arm_chair": {
+    "criteria": {
+      "has_wool": "2025-08-03 22:14:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-08-03 22:14:10 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/red_arm_chair": {
+    "criteria": {
+      "has_wool": "2025-08-03 22:14:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/arm_chair_leather": {
+    "criteria": {
+      "has_wool": "2025-08-03 22:14:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/gray_simple_sofa": {
+    "criteria": {
+      "has_wool": "2025-08-03 22:14:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/pink_simple_sofa": {
+    "criteria": {
+      "has_wool": "2025-08-03 22:14:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/black_simple_sofa": {
+    "criteria": {
+      "has_wool": "2025-08-03 22:14:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/brown_simple_sofa": {
+    "criteria": {
+      "has_wool": "2025-08-03 22:14:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cyan_arm_chair": {
+    "criteria": {
+      "has_wool": "2025-08-03 22:14:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/white_arm_chair": {
+    "criteria": {
+      "has_wool": "2025-08-03 22:14:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/blue_simple_sofa": {
+    "criteria": {
+      "has_wool": "2025-08-03 22:14:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/black_arm_chair": {
+    "criteria": {
+      "has_wool": "2025-08-03 22:14:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/gray_arm_chair": {
+    "criteria": {
+      "has_wool": "2025-08-03 22:14:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/purple_arm_chair": {
+    "criteria": {
+      "has_wool": "2025-08-03 22:14:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/light_blue_simple_sofa": {
+    "criteria": {
+      "has_wool": "2025-08-03 22:14:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-08-03 22:14:10 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/magenta_arm_chair": {
+    "criteria": {
+      "has_wool": "2025-08-03 22:14:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/orange_simple_sofa": {
+    "criteria": {
+      "has_wool": "2025-08-03 22:14:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/light_blue_arm_chair": {
+    "criteria": {
+      "has_wool": "2025-08-03 22:14:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cyan_simple_sofa": {
+    "criteria": {
+      "has_wool": "2025-08-03 22:14:09 +0000"
     },
     "done": true
   },

@@ -982,3 +982,7 @@ java.lang.ClassNotFoundException: net.minecraft.util.random.WeightedEntry$Intrus
 [03Aug2025 22:00:02.906] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elunico247k lost connection: Disconnected
 [03Aug2025 22:00:02.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elunico247k left the game
 [03Aug2025 22:00:13.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Set own game mode to Survival Mode]
+[03Aug2025 22:11:43.653] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nightmare73lb[/127.205.190.144:60879] logged in with entity id 23880 at (788.1570221519665, 120.12160004615784, -706.8392254656812)
+[03Aug2025 22:11:43.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb joined the game
+[03Aug2025 22:11:43.662] [Server thread/INFO] [Jade/]: Syncing config to Nightmare73lb (80c5e0bf-a90a-3ea0-a3b8-c3ff885f2d8e)
+[03Aug2025 22:13:33.208] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2123ms or 42 ticks behind
