@@ -204,6 +204,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-07-28 02:53:06 +0000",
+      "cooked_mutton": "2025-08-03 23:18:59 +0000",
       "cooked_beef": "2025-07-25 04:03:02 +0000",
       "baked_potato": "2025-07-25 03:28:48 +0000",
       "apple": "2025-07-25 03:20:28 +0000",
@@ -7336,9 +7337,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_home": {
+    "criteria": {
+      "coded_trigger": "2025-08-03 23:24:43 +0000"
+    },
+    "done": true
+  },
   "terramity:stone_mask_advancement": {
     "criteria": {
       "stone_mask_advancement_0": "2025-08-03 23:14:20 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-08-03 23:23:08 +0000"
     },
     "done": true
   },
