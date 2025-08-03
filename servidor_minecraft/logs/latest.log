@@ -758,3 +758,37 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Aug2025 20:46:25.178] [Server thread/INFO] [Jade/]: Syncing config to moshtro111876 (e43ab439-6742-338a-b35f-7da80b1e63ae)
 [03Aug2025 20:46:55.257] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moshtro111876 lost connection: Timed out
 [03Aug2025 20:46:55.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 left the game
+[03Aug2025 20:47:19.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovaniiYT15 has reached the goal [Strong or Careful]
+[03Aug2025 20:47:19.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovaniiYT15 was slain by Crocodile
+[03Aug2025 20:47:19.229] [Server thread/INFO] [tombstone/]: The player GiovaniiYT15 has successfully been saved
+[03Aug2025 20:47:33.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovaniiYT15 has reached the goal [Here They Come]
+[03Aug2025 20:47:42.775] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: moshtro111876[/127.173.215.32:40053] logged in with entity id 3179 at (-1889.0, 62.0, 2947.0)
+[03Aug2025 20:47:42.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 joined the game
+[03Aug2025 20:47:42.840] [Server thread/INFO] [Jade/]: Syncing config to moshtro111876 (e43ab439-6742-338a-b35f-7da80b1e63ae)
+[03Aug2025 20:47:52.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 has reached the goal [Strong or Careful]
+[03Aug2025 20:47:52.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 has completed the challenge [Almost Unkillable]
+[03Aug2025 20:47:52.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 was killed
+[03Aug2025 20:47:52.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Killed moshtro111876]
+[03Aug2025 20:47:52.366] [Server thread/INFO] [tombstone/]: The player moshtro111876 has successfully been saved
+[03Aug2025 20:48:12.856] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moshtro111876 lost connection: Timed out
+[03Aug2025 20:48:12.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 left the game
+[03Aug2025 20:49:02.321] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: moshtro111876[/127.173.215.32:52963] logged in with entity id 3397 at (-1889.0, 62.0, 2947.0)
+[03Aug2025 20:49:02.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 joined the game
+[03Aug2025 20:49:02.381] [Server thread/INFO] [Jade/]: Syncing config to moshtro111876 (e43ab439-6742-338a-b35f-7da80b1e63ae)
+[03Aug2025 20:49:32.402] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moshtro111876 lost connection: Timed out
+[03Aug2025 20:49:32.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 left the game
+[03Aug2025 20:50:35.667] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: moshtro111876[/127.173.215.32:39739] logged in with entity id 3619 at (-1889.0, 62.0, 2947.0)
+[03Aug2025 20:50:35.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 joined the game
+[03Aug2025 20:50:35.718] [Server thread/INFO] [Jade/]: Syncing config to moshtro111876 (e43ab439-6742-338a-b35f-7da80b1e63ae)
+[03Aug2025 20:51:05.803] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moshtro111876 lost connection: Timed out
+[03Aug2025 20:51:05.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 left the game
+[03Aug2025 20:52:05.419] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: moshtro111876[/127.173.215.32:53443] logged in with entity id 3818 at (-1889.0, 62.0, 2947.0)
+[03Aug2025 20:52:05.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 joined the game
+[03Aug2025 20:52:05.486] [Server thread/INFO] [Jade/]: Syncing config to moshtro111876 (e43ab439-6742-338a-b35f-7da80b1e63ae)
+[03Aug2025 20:52:35.552] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moshtro111876 lost connection: Timed out
+[03Aug2025 20:52:35.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 left the game
+[03Aug2025 20:53:24.070] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: moshtro111876[/127.173.215.32:45663] logged in with entity id 3989 at (-1889.0, 62.0, 2947.0)
+[03Aug2025 20:53:24.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 joined the game
+[03Aug2025 20:53:24.119] [Server thread/INFO] [Jade/]: Syncing config to moshtro111876 (e43ab439-6742-338a-b35f-7da80b1e63ae)
+[03Aug2025 20:53:54.154] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moshtro111876 lost connection: Timed out
+[03Aug2025 20:53:54.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 left the game
