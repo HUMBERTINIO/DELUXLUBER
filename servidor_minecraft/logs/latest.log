@@ -1015,3 +1015,6 @@ java.lang.ClassNotFoundException: net.minecraft.util.random.WeightedEntry$Intrus
 [03Aug2025 22:40:19.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 left the game
 [03Aug2025 22:41:20.803] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GiovaniiYT15 lost connection: Timed out
 [03Aug2025 22:41:20.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovaniiYT15 left the game
+[03Aug2025 23:08:40.498] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: moshtro111876[/127.173.215.32:58803] logged in with entity id 31559 at (-1875.762447913213, 62.9375, 2929.7328731220764)
+[03Aug2025 23:08:40.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 joined the game
+[03Aug2025 23:08:40.510] [Server thread/INFO] [Jade/]: Syncing config to moshtro111876 (e43ab439-6742-338a-b35f-7da80b1e63ae)
