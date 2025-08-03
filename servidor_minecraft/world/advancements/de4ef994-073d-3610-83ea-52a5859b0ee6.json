@@ -1,0 +1,93 @@
+{
+  "legendary_monsters:end_root": {
+    "criteria": {
+      "custom_test_name": "2025-08-03 21:38:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-08-03 21:38:27 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cooked_egg": {
+    "criteria": {
+      "has_eggs": "2025-08-03 21:38:27 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-08-03 21:38:27 +0000"
+    },
+    "done": true
+  },
+  "adorabuild_structures:overworld_structures": {
+    "criteria": {
+      "always": "2025-08-03 21:38:27 +0000"
+    },
+    "done": true
+  },
+  "mapperbase:recipes/mapperbase_group/steel_ingot": {
+    "criteria": {
+      "has_raw_steel": "2025-08-03 21:38:27 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2025-08-03 21:38:27 +0000"
+    },
+    "done": true
+  },
+  "pfm:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2025-08-03 21:38:27 +0000"
+    },
+    "done": true
+  },
+  "terramity:terramity_parent_advancement": {
+    "criteria": {
+      "terramity_parent_advancement_0": "2025-08-03 21:38:27 +0000"
+    },
+    "done": true
+  },
+  "cnc:cnc": {
+    "criteria": {
+      "cnc_0": "2025-08-03 21:38:27 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:legendary_monsters_root": {
+    "criteria": {
+      "custom_test_name": "2025-08-03 21:38:27 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bornin_chaos": {
+    "criteria": {
+      "bornin_chaos_0": "2025-08-03 21:38:27 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:nether_root": {
+    "criteria": {
+      "custom_test_name": "2025-08-03 21:38:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:desert": "2025-08-03 21:38:28 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-08-03 21:38:28 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
