@@ -7355,6 +7355,18 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/stomp_leafcutter_anthill": {
+    "criteria": {
+      "ex": "2025-08-03 23:41:40 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_4": {
+    "criteria": {
+      "has_stack_upgrade_tier_3": "2025-08-03 23:43:19 +0000"
+    },
+    "done": true
+  },
   "adorabuild_structures:fireproof": {
     "criteria": {
       "blackstone_bastion_medium_1": "2025-08-03 23:11:08 +0000",
