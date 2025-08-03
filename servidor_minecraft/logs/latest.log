@@ -964,3 +964,16 @@ java.lang.ClassNotFoundException: net.minecraft.util.random.WeightedEntry$Intrus
 [03Aug2025 21:40:05.299] [Server thread/INFO] [Jade/]: Syncing config to killer (de4ef994-073d-3610-83ea-52a5859b0ee6)
 [03Aug2025 21:40:35.405] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer lost connection: Timed out
 [03Aug2025 21:40:35.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: killer left the game
+[03Aug2025 21:53:26.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Teleported Elunico247k to GiovaniiYT15]
+[03Aug2025 21:53:44.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Gamerule keepInventory is now set to: false]
+[03Aug2025 21:53:45.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elunico247k was slain by GiovaniiYT15
+[03Aug2025 21:53:45.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elunico247k has made the advancement [Your First Grave]
+[03Aug2025 21:53:45.963] [Server thread/INFO] [tombstone/]: The player Elunico247k has successfully been saved
+[03Aug2025 21:53:54.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovaniiYT15 has made the advancement [Funeral Theft]
+[03Aug2025 21:54:35.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Teleported Elunico247k to GiovaniiYT15]
+[03Aug2025 21:54:55.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elunico247k has made the advancement [Cover Me with Diamonds]
+[03Aug2025 21:55:18.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Applied effect Strength to GiovaniiYT15]
+[03Aug2025 21:56:20.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Teleported Elunico247k to GiovaniiYT15]
+[03Aug2025 21:56:22.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elunico247k was slain by GiovaniiYT15
+[03Aug2025 21:56:22.964] [Server thread/INFO] [tombstone/]: The player Elunico247k has successfully been saved
+[03Aug2025 21:56:34.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Teleported Elunico247k to GiovaniiYT15]

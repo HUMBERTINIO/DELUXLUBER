@@ -6445,5 +6445,11 @@
     },
     "done": true
   },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-08-03 21:53:54 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

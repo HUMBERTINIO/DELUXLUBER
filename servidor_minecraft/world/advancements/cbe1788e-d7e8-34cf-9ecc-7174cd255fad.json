@@ -1,4 +1,10 @@
 {
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-08-03 21:53:50 +0000"
+    },
+    "done": true
+  },
   "legendary_monsters:end_root": {
     "criteria": {
       "custom_test_name": "2025-08-03 21:25:24 +0000"
@@ -8,6 +14,12 @@
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2025-08-03 21:25:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-08-03 21:54:55 +0000"
     },
     "done": true
   },
@@ -53,6 +65,18 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_boots_repairing": {
+    "criteria": {
+      "has_diamond_boots": "2025-08-03 21:54:55 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-08-03 21:53:45 +0000"
+    },
+    "done": true
+  },
   "cnc:cnc": {
     "criteria": {
       "cnc_0": "2025-08-03 21:25:24 +0000"
@@ -67,6 +91,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:mangrove_swamp": "2025-08-03 21:56:31 +0000",
+      "minecraft:river": "2025-08-03 21:54:35 +0000",
       "minecraft:desert": "2025-08-03 21:25:25 +0000",
       "minecraft:plains": "2025-08-03 21:25:50 +0000"
     },
