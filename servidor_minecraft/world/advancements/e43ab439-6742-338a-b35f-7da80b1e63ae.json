@@ -8467,69 +8467,9 @@
     },
     "done": true
   },
-  "cnc:beaveradvancement": {
+  "tombstone:adventure/create_magic_scroll": {
     "criteria": {
-      "beaveradvancement_0": "2025-08-04 01:56:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/brown_dye": {
-    "criteria": {
-      "has_cocoa_beans": "2025-08-04 01:52:12 +0000"
-    },
-    "done": true
-  },
-  "goblins_tyranny:goblins_encounter_success": {
-    "criteria": {
-      "goblins_encounter_success_0": "2025-08-04 02:01:33 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:big_boy": {
-    "criteria": {
-      "big_boy_0": "2025-08-04 02:12:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_lantern": {
-    "criteria": {
-      "has_soul_torch": "2025-08-04 02:39:28 +0000"
-    },
-    "done": true
-  },
-  "cnc:coyoteadvancement": {
-    "criteria": {
-      "coyoteadvancement_0": "2025-08-04 02:02:11 +0000"
-    },
-    "done": true
-  },
-  "cnc:ringtailadvancement": {
-    "criteria": {
-      "ringtailadvancement_0": "2025-08-04 02:03:11 +0000"
-    },
-    "done": true
-  },
-  "goblins_tyranny:goblins_slayer_success": {
-    "criteria": {
-      "goblins_slayer_success_0": "2025-08-04 02:01:34 +0000"
-    },
-    "done": true
-  },
-  "goblins_tyranny:goblin_liquor_success": {
-    "criteria": {
-      "goblin_liquor_success_0": "2025-08-04 02:05:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cookie": {
-    "criteria": {
-      "has_cocoa": "2025-08-04 01:52:12 +0000"
-    },
-    "done": true
-  },
-  "goblins_tyranny:goblins_meat_success": {
-    "criteria": {
-      "goblins_meat_success_0": "2025-08-04 02:48:14 +0000"
+      "has_magic_scroll": "2025-08-04 01:40:49 +0000"
     },
     "done": true
   },
@@ -8545,9 +8485,53 @@
     },
     "done": true
   },
-  "aether:recipes/tools/golden_pickaxe_repairing": {
+  "minecraft:recipes/misc/brown_dye": {
     "criteria": {
-      "has_golden_pickaxe": "2025-08-04 02:16:23 +0000"
+      "has_cocoa_beans": "2025-08-04 01:52:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-08-04 01:52:12 +0000"
+    },
+    "done": true
+  },
+  "cnc:beaveradvancement": {
+    "criteria": {
+      "beaveradvancement_0": "2025-08-04 01:56:55 +0000"
+    },
+    "done": true
+  },
+  "goblins_tyranny:goblins_encounter_success": {
+    "criteria": {
+      "goblins_encounter_success_0": "2025-08-04 02:01:33 +0000"
+    },
+    "done": true
+  },
+  "goblins_tyranny:goblins_slayer_success": {
+    "criteria": {
+      "goblins_slayer_success_0": "2025-08-04 02:01:34 +0000"
+    },
+    "done": true
+  },
+  "cnc:coyoteadvancement": {
+    "criteria": {
+      "coyoteadvancement_0": "2025-08-04 02:02:11 +0000"
+    },
+    "done": true
+  },
+  "adorabuild_structures:tireless_legs": {
+    "criteria": {
+      "sand_house_medium_1": "2025-08-04 08:21:14 +0000",
+      "sand_house_small_1": "2025-08-04 03:09:27 +0000",
+      "oak_house_small_2": "2025-08-04 02:02:49 +0000"
+    },
+    "done": false
+  },
+  "cnc:ringtailadvancement": {
+    "criteria": {
+      "ringtailadvancement_0": "2025-08-04 02:03:11 +0000"
     },
     "done": true
   },
@@ -8557,9 +8541,45 @@
     },
     "done": true
   },
+  "goblins_tyranny:goblin_liquor_success": {
+    "criteria": {
+      "goblin_liquor_success_0": "2025-08-04 02:05:29 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:horrorofthe_depths": {
+    "criteria": {
+      "horrorofthe_depths_0": "2025-08-04 02:09:48 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:big_boy": {
+    "criteria": {
+      "big_boy_0": "2025-08-04 02:12:11 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/choose_grave_type": {
     "criteria": {
       "coded_trigger": "2025-08-04 02:14:23 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/golden_pickaxe_repairing": {
+    "criteria": {
+      "has_golden_pickaxe": "2025-08-04 02:16:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2025-08-04 02:39:28 +0000"
+    },
+    "done": true
+  },
+  "goblins_tyranny:goblins_meat_success": {
+    "criteria": {
+      "goblins_meat_success_0": "2025-08-04 02:48:14 +0000"
     },
     "done": true
   },
@@ -8569,21 +8589,33 @@
     },
     "done": true
   },
-  "adorabuild_structures:tireless_legs": {
+  "tombstone:adventure/vanishing": {
     "criteria": {
-      "oak_house_small_2": "2025-08-04 02:02:49 +0000"
-    },
-    "done": false
-  },
-  "born_in_chaos_v1:horrorofthe_depths": {
-    "criteria": {
-      "horrorofthe_depths_0": "2025-08-04 02:09:48 +0000"
+      "coded_trigger": "2025-08-04 03:00:00 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/create_magic_scroll": {
+  "legendary_monsters:defeat_dune_sentinel": {
     "criteria": {
-      "has_magic_scroll": "2025-08-04 01:40:49 +0000"
+      "ambusher": "2025-08-04 08:19:38 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_ruined_pyramid": {
+    "criteria": {
+      "ruined_pyramid": "2025-08-04 08:19:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-08-04 08:23:02 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_acropolis": {
+    "criteria": {
+      "acropolis": "2025-08-04 08:22:26 +0000"
     },
     "done": true
   },
