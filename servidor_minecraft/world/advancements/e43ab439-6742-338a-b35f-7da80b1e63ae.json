@@ -8304,63 +8304,21 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/advanced_restock_upgrade": {
-    "criteria": {
-      "has_restock_upgrade": "2025-08-04 00:09:35 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/advanced_void_upgrade": {
-    "criteria": {
-      "has_void_upgrade": "2025-08-04 00:09:36 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/advanced_feeding_upgrade": {
-    "criteria": {
-      "has_feeding_upgrade": "2025-08-04 00:11:05 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/neighborhood_brawl": {
     "criteria": {
       "coded_trigger": "2025-08-03 23:15:30 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/auto_smelting_upgrade": {
+  "tombstone:adventure/funeral_theft": {
     "criteria": {
-      "has_smelting_upgrade": "2025-08-04 00:09:56 +0000"
+      "coded_trigger": "2025-08-03 23:16:27 +0000"
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/orcas_might": {
+  "tombstone:adventure/teleport_to_grave": {
     "criteria": {
-      "all_effects": "2025-08-04 00:59:32 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/advanced_refill_upgrade": {
-    "criteria": {
-      "has_refill_upgrade": "2025-08-04 00:09:43 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade_from_basic": {
-    "criteria": {
-      "has_magnet_upgrade": "2025-08-04 00:11:05 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/advanced_compacting_upgrade": {
-    "criteria": {
-      "has_compacting_upgrade": "2025-08-04 00:09:36 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/advanced_deposit_upgrade": {
-    "criteria": {
-      "has_deposit_upgrade": "2025-08-04 00:11:06 +0000"
+      "coded_trigger": "2025-08-03 23:19:04 +0000"
     },
     "done": true
   },
@@ -8370,13 +8328,67 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:hatman": {
+  "terramity:when_life_gives_you_lemons": {
     "criteria": {
-      "hatman_0": "2025-08-04 00:48:45 +0000"
+      "when_life_gives_you_lemons_0": "2025-08-03 23:31:56 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "wither_rework:nether/obtain_nether_star": {
+    "criteria": {
+      "requirement": "2025-08-04 00:05:56 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_restock_upgrade": {
+    "criteria": {
+      "has_restock_upgrade": "2025-08-04 00:09:35 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_pump_upgrade": {
+    "criteria": {
+      "has_pump_upgrade": "2025-08-04 00:09:35 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_void_upgrade": {
+    "criteria": {
+      "has_void_upgrade": "2025-08-04 00:09:36 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_compacting_upgrade": {
+    "criteria": {
+      "has_compacting_upgrade": "2025-08-04 00:09:36 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/auto_blasting_upgrade": {
+    "criteria": {
+      "has_blasting_upgrade": "2025-08-04 00:09:36 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_refill_upgrade": {
+    "criteria": {
+      "has_refill_upgrade": "2025-08-04 00:09:43 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/auto_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-08-04 00:09:56 +0000"
+    },
+    "done": true
   },
   "sophisticatedbackpacks:recipes/misc/blasting_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-08-04 00:09:56 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smoking_upgrade_from_smelting_upgrade": {
     "criteria": {
       "has_smelting_upgrade": "2025-08-04 00:09:56 +0000"
     },
@@ -8388,21 +8400,21 @@
     },
     "done": true
   },
-  "tombstone:adventure/master_siphoner": {
+  "sophisticatedbackpacks:recipes/misc/advanced_feeding_upgrade": {
     "criteria": {
-      "coded_trigger": "2025-08-04 01:22:06 +0000"
+      "has_feeding_upgrade": "2025-08-04 00:11:05 +0000"
     },
     "done": true
   },
-  "wither_rework:nether/obtain_nether_star": {
+  "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade_from_basic": {
     "criteria": {
-      "requirement": "2025-08-04 00:05:56 +0000"
+      "has_magnet_upgrade": "2025-08-04 00:11:05 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/smoking_upgrade_from_smelting_upgrade": {
+  "sophisticatedbackpacks:recipes/misc/advanced_deposit_upgrade": {
     "criteria": {
-      "has_smelting_upgrade": "2025-08-04 00:09:56 +0000"
+      "has_deposit_upgrade": "2025-08-04 00:11:06 +0000"
     },
     "done": true
   },
@@ -8412,21 +8424,15 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/advanced_pump_upgrade": {
+  "born_in_chaos_v1:hatman": {
     "criteria": {
-      "has_pump_upgrade": "2025-08-04 00:09:35 +0000"
+      "hatman_0": "2025-08-04 00:48:45 +0000"
     },
-    "done": true
+    "done": false
   },
-  "terramity:when_life_gives_you_lemons": {
+  "alexsmobs:alexsmobs/orcas_might": {
     "criteria": {
-      "when_life_gives_you_lemons_0": "2025-08-03 23:31:56 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/auto_blasting_upgrade": {
-    "criteria": {
-      "has_blasting_upgrade": "2025-08-04 00:09:36 +0000"
+      "all_effects": "2025-08-04 00:59:32 +0000"
     },
     "done": true
   },
@@ -8436,15 +8442,27 @@
     },
     "done": true
   },
-  "tombstone:adventure/teleport_to_grave": {
+  "tombstone:adventure/master_siphoner": {
     "criteria": {
-      "coded_trigger": "2025-08-03 23:19:04 +0000"
+      "coded_trigger": "2025-08-04 01:22:06 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/funeral_theft": {
+  "tombstone:adventure/strong_undead": {
     "criteria": {
-      "coded_trigger": "2025-08-03 23:16:27 +0000"
+      "coded_trigger": "2025-08-04 01:34:06 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-08-04 01:35:38 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-08-04 01:35:38 +0000"
     },
     "done": true
   },
