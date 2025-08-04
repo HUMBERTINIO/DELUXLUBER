@@ -8201,9 +8201,21 @@
     },
     "done": true
   },
+  "call_of_yucutan:interact_with_mirror": {
+    "criteria": {
+      "interact_with_mirror_0": "2025-08-04 08:42:12 +0000"
+    },
+    "done": true
+  },
   "cataclysm:kill_scylla": {
     "criteria": {
       "ignis": "2025-08-04 08:31:23 +0000"
+    },
+    "done": true
+  },
+  "cnc:white_tailed_deer_advancement": {
+    "criteria": {
+      "white_tailed_deer_advancement_0": "2025-08-04 08:40:06 +0000"
     },
     "done": true
   },
@@ -8212,6 +8224,12 @@
       "acropolis": "2025-08-04 08:30:04 +0000"
     },
     "done": true
+  },
+  "adorabuild_structures:tireless_legs": {
+    "criteria": {
+      "birch_house_medium_2": "2025-08-04 08:41:19 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
