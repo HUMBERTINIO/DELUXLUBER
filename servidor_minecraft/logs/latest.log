@@ -1138,3 +1138,73 @@ java.lang.ClassNotFoundException: net.minecraft.util.random.WeightedEntry$Intrus
 [03Aug2025 23:47:09.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> ya?
 [03Aug2025 23:47:13.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> para quitarme el op
 [03Aug2025 23:49:25.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> listo son todas pasa las que no tenias
+[03Aug2025 23:50:00.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovaniiYT15 has reached the goal [Bone Crusher]
+[03Aug2025 23:50:30.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> traelo
+[03Aug2025 23:50:38.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb has made the advancement [Chompy]
+[03Aug2025 23:50:38.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> XD
+[03Aug2025 23:51:20.141] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/31595, l='ServerLevel[world]', x=-1895.11, y=63.56, z=2937.66] died, message: 'Librarian was killed by magic'
+[03Aug2025 23:51:20.143] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/31644, l='ServerLevel[world]', x=-1897.50, y=63.00, z=2933.50] died, message: 'Unemployed was killed by magic'
+[03Aug2025 23:51:20.143] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/31645, l='ServerLevel[world]', x=-1888.70, y=61.00, z=2937.30] died, message: 'Unemployed was killed by magic'
+[03Aug2025 23:51:20.144] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/31646, l='ServerLevel[world]', x=-1899.50, y=63.56, z=2940.50] died, message: 'Librarian was killed by magic'
+[03Aug2025 23:51:20.145] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/31647, l='ServerLevel[world]', x=-1897.18, y=63.56, z=2938.40] died, message: 'Fletcher was killed by magic'
+[03Aug2025 23:51:20.146] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/31648, l='ServerLevel[world]', x=-1897.50, y=63.56, z=2935.50] died, message: 'Librarian was killed by magic'
+[03Aug2025 23:51:20.147] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/31649, l='ServerLevel[world]', x=-1895.50, y=63.88, z=2930.50] died, message: 'Librarian was killed by magic'
+[03Aug2025 23:51:20.148] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/31650, l='ServerLevel[world]', x=-1892.50, y=63.00, z=2936.50] died, message: 'Weaponsmith was killed by magic'
+[03Aug2025 23:51:20.148] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/31651, l='ServerLevel[world]', x=-1892.50, y=63.00, z=2940.50] died, message: 'Librarian was killed by magic'
+[03Aug2025 23:51:20.149] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/31653, l='ServerLevel[world]', x=-1894.50, y=63.56, z=2938.50] died, message: 'Librarian was killed by magic'
+[03Aug2025 23:51:20.150] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/31582, l='ServerLevel[world]', x=-1897.04, y=63.56, z=2940.14] died, message: 'Unemployed was killed by magic'
+[03Aug2025 23:51:20.150] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/31583, l='ServerLevel[world]', x=-1899.07, y=63.56, z=2939.96] died, message: 'Unemployed was killed by magic'
+[03Aug2025 23:51:20.155] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/31603, l='ServerLevel[world]', x=-1888.30, y=60.00, z=2947.70] died, message: 'Unemployed was killed by magic'
+[03Aug2025 23:51:20.156] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/31605, l='ServerLevel[world]', x=-1894.50, y=63.56, z=2942.50] died, message: 'Armorer was killed by magic'
+[03Aug2025 23:51:20.157] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/31606, l='ServerLevel[world]', x=-1894.50, y=63.56, z=2942.50] died, message: 'Librarian was killed by magic'
+[03Aug2025 23:51:20.159] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/31607, l='ServerLevel[world]', x=-1900.50, y=63.56, z=2937.50] died, message: 'Cleric was killed by magic'
+[03Aug2025 23:51:20.160] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/31608, l='ServerLevel[world]', x=-1896.50, y=63.56, z=2935.50] died, message: 'Librarian was killed by magic'
+[03Aug2025 23:51:20.161] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/31609, l='ServerLevel[world]', x=-1888.70, y=60.00, z=2947.30] died, message: 'Unemployed was killed by magic'
+[03Aug2025 23:51:20.161] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/31610, l='ServerLevel[world]', x=-1888.70, y=60.00, z=2947.70] died, message: 'Librarian was killed by magic'
+[03Aug2025 23:51:20.162] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/31612, l='ServerLevel[world]', x=-1888.30, y=60.00, z=2947.70] died, message: 'Librarian was killed by magic'
+[03Aug2025 23:51:20.162] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/31613, l='ServerLevel[world]', x=-1897.13, y=63.56, z=2939.49] died, message: 'Librarian was killed by magic'
+[03Aug2025 23:51:20.162] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/31614, l='ServerLevel[world]', x=-1896.36, y=63.56, z=2939.48] died, message: 'Librarian was killed by magic'
+[03Aug2025 23:51:20.164] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/31615, l='ServerLevel[world]', x=-1895.50, y=63.56, z=2942.50] died, message: 'Librarian was killed by magic'
+[03Aug2025 23:51:20.164] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/31616, l='ServerLevel[world]', x=-1888.30, y=60.00, z=2947.30] died, message: 'Unemployed was killed by magic'
+[03Aug2025 23:51:26.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> dame
+[03Aug2025 23:51:29.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> las que te di
+[03Aug2025 23:51:34.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> las que no tenias
+[03Aug2025 23:51:37.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> te di todas mmvo
+[03Aug2025 23:52:01.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> las que no tenias regresalas
+[03Aug2025 23:52:20.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> esa
+[03Aug2025 23:52:30.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> q mas
+[03Aug2025 23:53:15.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> cohetes
+[03Aug2025 23:53:17.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> se supone
+[03Aug2025 23:53:56.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> q mas?
+[03Aug2025 23:54:05.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> mames
+[03Aug2025 23:54:11.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> q mas
+[03Aug2025 23:54:44.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> con mi coco no te metas eh
+[03Aug2025 23:55:44.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb has made the advancement [The Soul Fortress]
+[03Aug2025 23:55:52.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb has completed the challenge [The Soul Eater]
+[03Aug2025 23:55:58.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Gave 14 [Golden Apple] to Nightmare73lb]
+[03Aug2025 23:56:12.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> si te las di con give
+[03Aug2025 23:56:29.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Gave 16 [Golden Apple] to moshtro111876]
+[03Aug2025 23:57:02.425] [Worker-Main-107/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[03Aug2025 23:57:02.425] [Worker-Main-107/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[03Aug2025 23:57:02.425] [Worker-Main-107/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[03Aug2025 23:57:02.426] [Worker-Main-107/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[03Aug2025 23:57:02.426] [Worker-Main-107/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[03Aug2025 23:57:03.186] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2649ms or 52 ticks behind
+[03Aug2025 23:57:03.258] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moshtro111876 moved too quickly! 8.42808699413581,1.0013359791121417,-5.395273137844924
+[03Aug2025 23:57:18.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> q mas
+[03Aug2025 23:57:27.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> tienes mas no?
+[03Aug2025 23:57:31.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> aa se las di a este we
+[03Aug2025 23:57:32.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> XD
+[03Aug2025 23:57:57.751] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nightmare73lb lost connection: Disconnected
+[03Aug2025 23:57:57.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb left the game
+[03Aug2025 23:58:02.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> listo?
+[03Aug2025 23:58:05.912] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nightmare73lb[/127.205.190.144:32803] logged in with entity id 46775 at (-1882.35136168043, 63.0, 2935.5229940837885)
+[03Aug2025 23:58:05.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb joined the game
+[03Aug2025 23:58:05.954] [Server thread/INFO] [Jade/]: Syncing config to Nightmare73lb (80c5e0bf-a90a-3ea0-a3b8-c3ff885f2d8e)
+[03Aug2025 23:58:35.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> q mas
+[03Aug2025 23:58:47.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> q mas
+[03Aug2025 23:59:08.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> ya?
+[03Aug2025 23:59:11.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> para qutiarme el op
+[03Aug2025 23:59:12.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> :V
+[03Aug2025 23:59:32.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> por ahi
+[03Aug2025 23:59:52.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> uno mas otro menos echale ganas

@@ -7367,12 +7367,31 @@
     },
     "done": true
   },
+  "legendary_monsters:defeat_withered_abomination": {
+    "criteria": {
+      "abomination": "2025-08-03 23:55:52 +0000"
+    },
+    "done": true
+  },
   "adorabuild_structures:fireproof": {
     "criteria": {
       "blackstone_bastion_medium_1": "2025-08-03 23:11:08 +0000",
-      "blackstone_temple_small_1": "2025-08-03 23:10:41 +0000"
+      "blackstone_temple_small_1": "2025-08-03 23:10:41 +0000",
+      "blackstone_bastion_medium_2": "2025-08-03 23:54:51 +0000"
     },
     "done": false
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-08-03 23:50:38 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_soul_fortress_remains": {
+    "criteria": {
+      "soul_fortress": "2025-08-03 23:55:44 +0000"
+    },
+    "done": true
   },
   "tombstone:adventure/funeral_theft": {
     "criteria": {
