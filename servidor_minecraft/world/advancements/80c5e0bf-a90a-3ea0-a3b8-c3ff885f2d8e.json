@@ -7405,321 +7405,9 @@
     },
     "done": true
   },
-  "mapperbase:recipes/mapperbase_group/steel_shovel": {
-    "criteria": {
-      "has_steel_ingot": "2025-08-04 00:11:03 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/magenta_shower_towel": {
-    "criteria": {
-      "has_magenta_wool": "2025-08-04 00:50:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_bed": {
-    "criteria": {
-      "has_gray_wool": "2025-08-04 00:49:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mangrove_planks": {
-    "criteria": {
-      "has_logs": "2025-08-04 01:03:19 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/gray_stool": {
-    "criteria": {
-      "has_wool": "2025-08-04 00:49:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_bed": {
-    "criteria": {
-      "has_orange_wool": "2025-08-04 00:50:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_bed": {
-    "criteria": {
-      "has_purple_wool": "2025-08-04 00:49:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_banner": {
-    "criteria": {
-      "has_orange_wool": "2025-08-04 00:50:02 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/pink_sofa": {
-    "criteria": {
-      "has_wool": "2025-08-04 00:49:55 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
-    "criteria": {
-      "lifeturnedouttobeacomedy_0": "2025-08-04 01:08:24 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/oak_chair_classic_cyan": {
-    "criteria": {
-      "oak_chair_classic_cyan": "2025-08-04 00:49:30 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/cyan_curtain": {
-    "criteria": {
-      "has_wool": "2025-08-04 00:49:30 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/pink_shower_towel": {
-    "criteria": {
-      "has_pink_wool": "2025-08-04 00:49:55 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/black_tall_stool": {
-    "criteria": {
-      "has_wool": "2025-08-04 00:49:21 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/oak_chair_classic_magenta": {
-    "criteria": {
-      "oak_chair_classic_magenta": "2025-08-04 00:50:00 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/orange_stool": {
-    "criteria": {
-      "has_wool": "2025-08-04 00:50:02 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/oak_chair_classic_yellow": {
-    "criteria": {
-      "oak_chair_classic_yellow": "2025-08-04 00:49:26 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/gray_shower_towel": {
-    "criteria": {
-      "has_gray_wool": "2025-08-04 00:49:20 +0000"
-    },
-    "done": true
-  },
-  "mapperbase:recipes/mapperbase_group/steel_helmet": {
-    "criteria": {
-      "has_steel": "2025-08-04 00:11:03 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/purple_stool": {
-    "criteria": {
-      "has_wool": "2025-08-04 00:49:56 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/oak_chair_classic_pink": {
-    "criteria": {
-      "oak_chair_classic_pink": "2025-08-04 00:49:55 +0000"
-    },
-    "done": true
-  },
-  "illageandspillage:kill_magi": {
-    "criteria": {
-      "requirement": "2025-08-04 01:06:47 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/yellow_curtain": {
-    "criteria": {
-      "has_wool": "2025-08-04 00:49:26 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:horror_underthe_mantle": {
-    "criteria": {
-      "horror_underthe_mantle_0": "2025-08-04 00:47:38 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/yellow_lamp": {
-    "criteria": {
-      "has_wool": "2025-08-04 00:49:26 +0000"
-    },
-    "done": true
-  },
-  "mapperbase:recipes/mapperbase_group/steel_fence_gate": {
-    "criteria": {
-      "has_steel_ingot": "2025-08-04 00:11:03 +0000"
-    },
-    "done": true
-  },
-  "mapperbase:recipes/mapperbase_group/steel_hoe": {
-    "criteria": {
-      "has_steel_ingot": "2025-08-04 00:11:03 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/yellow_stool": {
-    "criteria": {
-      "has_wool": "2025-08-04 00:49:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2025-08-04 00:05:31 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/orange_lamp": {
-    "criteria": {
-      "has_wool": "2025-08-04 00:50:02 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/purple_sofa": {
-    "criteria": {
-      "has_wool": "2025-08-04 00:49:56 +0000"
-    },
-    "done": true
-  },
-  "mapperbase:recipes/mapperbase_group/steel_chestplate": {
-    "criteria": {
-      "has_steel": "2025-08-04 00:11:03 +0000"
-    },
-    "done": true
-  },
-  "mapperbase:recipes/mapperbase_group/steel_boots": {
-    "criteria": {
-      "has_steel": "2025-08-04 00:11:03 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/yellow_shower_towel": {
-    "criteria": {
-      "has_yellow_wool": "2025-08-04 00:49:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_carpet": {
-    "criteria": {
-      "has_gray_wool": "2025-08-04 00:49:20 +0000"
-    },
-    "done": true
-  },
-  "mapperbase:recipes/mapperbase_group/steel_block": {
-    "criteria": {
-      "has_steel_ingot": "2025-08-04 00:11:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_carpet": {
-    "criteria": {
-      "has_purple_wool": "2025-08-04 00:49:56 +0000"
-    },
-    "done": true
-  },
-  "mapperbase:recipes/mapperbase_group/steel_sword": {
-    "criteria": {
-      "has_steel_ingot": "2025-08-04 00:11:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/magenta_bed": {
-    "criteria": {
-      "has_magenta_wool": "2025-08-04 00:50:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal_from_bone_block": {
-    "criteria": {
-      "has_bone_block": "2025-08-04 00:10:31 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/white_stool": {
-    "criteria": {
-      "has_wool": "2025-08-04 00:49:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cyan_carpet": {
-    "criteria": {
-      "has_cyan_wool": "2025-08-04 00:49:30 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/yellow_sofa": {
-    "criteria": {
-      "has_wool": "2025-08-04 00:49:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_banner": {
-    "criteria": {
-      "has_purple_wool": "2025-08-04 00:49:56 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/yellow_tall_stool": {
-    "criteria": {
-      "has_wool": "2025-08-04 00:49:26 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/gray_curtain": {
-    "criteria": {
-      "has_wool": "2025-08-04 00:49:20 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/gray_tall_stool": {
-    "criteria": {
-      "has_wool": "2025-08-04 00:49:20 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/purple_tall_stool": {
-    "criteria": {
-      "has_wool": "2025-08-04 00:49:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cyan_bed": {
-    "criteria": {
-      "has_cyan_wool": "2025-08-04 00:49:30 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/magenta_stool": {
-    "criteria": {
-      "has_wool": "2025-08-04 00:50:00 +0000"
-    },
-    "done": true
-  },
-  "mapperbase:recipes/mapperbase_group/steel_leggings": {
-    "criteria": {
-      "has_steel": "2025-08-04 00:11:03 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/cyan_tall_stool": {
-    "criteria": {
-      "has_wool": "2025-08-04 00:49:30 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/oak_chair_classic_black": {
-    "criteria": {
-      "oak_chair_classic_black": "2025-08-04 00:49:21 +0000"
     },
     "done": true
   },
@@ -7729,213 +7417,9 @@
     },
     "done": true
   },
-  "another_furniture:recipes/white_curtain": {
-    "criteria": {
-      "has_wool": "2025-08-04 00:49:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/magenta_carpet": {
-    "criteria": {
-      "has_magenta_wool": "2025-08-04 00:50:00 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2025-08-04 00:05:31 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/black_shower_towel": {
-    "criteria": {
-      "has_black_wool": "2025-08-04 00:49:21 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/oak_chair_classic_gray": {
-    "criteria": {
-      "oak_chair_classic_gray": "2025-08-04 00:49:20 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/magenta_tall_stool": {
-    "criteria": {
-      "has_wool": "2025-08-04 00:50:00 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/vanishing": {
-    "criteria": {
-      "coded_trigger": "2025-08-04 01:09:22 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/orange_sofa": {
-    "criteria": {
-      "has_wool": "2025-08-04 00:50:02 +0000"
-    },
-    "done": true
-  },
-  "mapperbase:recipes/mapperbase_group/steel_fence": {
-    "criteria": {
-      "has_steel_ingot": "2025-08-04 00:11:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cyan_banner": {
-    "criteria": {
-      "has_cyan_wool": "2025-08-04 00:49:30 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/orange_tall_stool": {
-    "criteria": {
-      "has_wool": "2025-08-04 00:50:02 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/altimeter": {
-    "criteria": {
-      "has_redstone": "2025-08-04 00:11:03 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/white_sofa": {
-    "criteria": {
-      "has_wool": "2025-08-04 00:49:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/magenta_banner": {
-    "criteria": {
-      "has_magenta_wool": "2025-08-04 00:50:00 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sconce_lever": {
-    "criteria": {
-      "has_redstone": "2025-08-04 00:11:03 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/bone_crusher": {
-    "criteria": {
-      "coded_trigger": "2025-08-04 00:06:09 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/white_lamp": {
-    "criteria": {
-      "has_wool": "2025-08-04 00:49:24 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/magenta_lamp": {
-    "criteria": {
-      "has_wool": "2025-08-04 00:50:00 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/redstone_illuminator": {
-    "criteria": {
-      "has_redstone": "2025-08-04 00:11:03 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/gray_lamp": {
-    "criteria": {
-      "has_wool": "2025-08-04 00:49:20 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/white_shower_towel": {
-    "criteria": {
-      "has_white_wool": "2025-08-04 00:49:24 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/purple_lamp": {
-    "criteria": {
-      "has_wool": "2025-08-04 00:49:56 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/village_defender": {
-    "criteria": {
-      "coded_trigger": "2025-08-04 00:59:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/pink_bed": {
-    "criteria": {
-      "has_pink_wool": "2025-08-04 00:49:55 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:squireofthe_dark_lord": {
-    "criteria": {
-      "squireofthe_dark_lord_4": "2025-08-04 01:08:25 +0000"
-    },
-    "done": false
-  },
-  "another_furniture:recipes/white_tall_stool": {
-    "criteria": {
-      "has_wool": "2025-08-04 00:49:24 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/black_stool": {
-    "criteria": {
-      "has_wool": "2025-08-04 00:49:21 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/orange_curtain": {
-    "criteria": {
-      "has_wool": "2025-08-04 00:50:02 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/black_lamp": {
-    "criteria": {
-      "has_wool": "2025-08-04 00:49:21 +0000"
-    },
-    "done": true
-  },
-  "mapperbase:recipes/mapperbase_group/steel_pickaxe": {
-    "criteria": {
-      "has_steel_ingot": "2025-08-04 00:11:03 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/gray_sofa": {
-    "criteria": {
-      "has_wool": "2025-08-04 00:49:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mangrove_wood": {
-    "criteria": {
-      "has_log": "2025-08-04 01:03:19 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/purple_shower_towel": {
-    "criteria": {
-      "has_purple_wool": "2025-08-04 00:49:56 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/black_sofa": {
-    "criteria": {
-      "has_wool": "2025-08-04 00:49:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_wood": {
-    "criteria": {
-      "has_log": "2025-08-04 01:03:18 +0000"
     },
     "done": true
   },
@@ -7951,21 +7435,105 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/gray_banner": {
+  "tombstone:adventure/bone_crusher": {
     "criteria": {
-      "has_gray_wool": "2025-08-04 00:49:20 +0000"
+      "coded_trigger": "2025-08-04 00:06:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-08-04 00:10:31 +0000"
+    },
+    "done": true
+  },
+  "mapperbase:recipes/mapperbase_group/steel_shovel": {
+    "criteria": {
+      "has_steel_ingot": "2025-08-04 00:11:03 +0000"
+    },
+    "done": true
+  },
+  "mapperbase:recipes/mapperbase_group/steel_helmet": {
+    "criteria": {
+      "has_steel": "2025-08-04 00:11:03 +0000"
+    },
+    "done": true
+  },
+  "mapperbase:recipes/mapperbase_group/steel_fence_gate": {
+    "criteria": {
+      "has_steel_ingot": "2025-08-04 00:11:03 +0000"
+    },
+    "done": true
+  },
+  "mapperbase:recipes/mapperbase_group/steel_hoe": {
+    "criteria": {
+      "has_steel_ingot": "2025-08-04 00:11:03 +0000"
+    },
+    "done": true
+  },
+  "mapperbase:recipes/mapperbase_group/steel_chestplate": {
+    "criteria": {
+      "has_steel": "2025-08-04 00:11:03 +0000"
+    },
+    "done": true
+  },
+  "mapperbase:recipes/mapperbase_group/steel_boots": {
+    "criteria": {
+      "has_steel": "2025-08-04 00:11:03 +0000"
+    },
+    "done": true
+  },
+  "mapperbase:recipes/mapperbase_group/steel_block": {
+    "criteria": {
+      "has_steel_ingot": "2025-08-04 00:11:03 +0000"
+    },
+    "done": true
+  },
+  "mapperbase:recipes/mapperbase_group/steel_sword": {
+    "criteria": {
+      "has_steel_ingot": "2025-08-04 00:11:03 +0000"
+    },
+    "done": true
+  },
+  "mapperbase:recipes/mapperbase_group/steel_leggings": {
+    "criteria": {
+      "has_steel": "2025-08-04 00:11:03 +0000"
+    },
+    "done": true
+  },
+  "mapperbase:recipes/mapperbase_group/steel_fence": {
+    "criteria": {
+      "has_steel_ingot": "2025-08-04 00:11:03 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/altimeter": {
+    "criteria": {
+      "has_redstone": "2025-08-04 00:11:03 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_lever": {
+    "criteria": {
+      "has_redstone": "2025-08-04 00:11:03 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/redstone_illuminator": {
+    "criteria": {
+      "has_redstone": "2025-08-04 00:11:03 +0000"
+    },
+    "done": true
+  },
+  "mapperbase:recipes/mapperbase_group/steel_pickaxe": {
+    "criteria": {
+      "has_steel_ingot": "2025-08-04 00:11:03 +0000"
     },
     "done": true
   },
   "mapperbase:recipes/mapperbase_group/steel_plate": {
     "criteria": {
       "has_steel_ingot": "2025-08-04 00:11:03 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/oak_chair_classic_orange": {
-    "criteria": {
-      "oak_chair_classic_orange": "2025-08-04 00:50:02 +0000"
     },
     "done": true
   },
@@ -7981,9 +7549,237 @@
     },
     "done": true
   },
-  "pfm:recipes/furniture/oak_chair_classic_purple": {
+  "mapperbase:recipes/mapperbase_group/steel_rod": {
     "criteria": {
-      "oak_chair_classic_purple": "2025-08-04 00:49:56 +0000"
+      "has_steel_ingot": "2025-08-04 00:11:03 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:horror_underthe_mantle": {
+    "criteria": {
+      "horror_underthe_mantle_0": "2025-08-04 00:47:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-08-04 00:49:20 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/gray_stool": {
+    "criteria": {
+      "has_wool": "2025-08-04 00:49:20 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/gray_shower_towel": {
+    "criteria": {
+      "has_gray_wool": "2025-08-04 00:49:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-08-04 00:49:20 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/gray_curtain": {
+    "criteria": {
+      "has_wool": "2025-08-04 00:49:20 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/gray_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-08-04 00:49:20 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_chair_classic_gray": {
+    "criteria": {
+      "oak_chair_classic_gray": "2025-08-04 00:49:20 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/gray_lamp": {
+    "criteria": {
+      "has_wool": "2025-08-04 00:49:20 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/gray_sofa": {
+    "criteria": {
+      "has_wool": "2025-08-04 00:49:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-08-04 00:49:20 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/black_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-08-04 00:49:21 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_chair_classic_black": {
+    "criteria": {
+      "oak_chair_classic_black": "2025-08-04 00:49:21 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/black_shower_towel": {
+    "criteria": {
+      "has_black_wool": "2025-08-04 00:49:21 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/black_stool": {
+    "criteria": {
+      "has_wool": "2025-08-04 00:49:21 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/black_lamp": {
+    "criteria": {
+      "has_wool": "2025-08-04 00:49:21 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/black_sofa": {
+    "criteria": {
+      "has_wool": "2025-08-04 00:49:21 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/black_curtain": {
+    "criteria": {
+      "has_wool": "2025-08-04 00:49:21 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_stool": {
+    "criteria": {
+      "has_wool": "2025-08-04 00:49:24 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_curtain": {
+    "criteria": {
+      "has_wool": "2025-08-04 00:49:24 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_sofa": {
+    "criteria": {
+      "has_wool": "2025-08-04 00:49:24 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_lamp": {
+    "criteria": {
+      "has_wool": "2025-08-04 00:49:24 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/white_shower_towel": {
+    "criteria": {
+      "has_white_wool": "2025-08-04 00:49:24 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-08-04 00:49:24 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_chair_classic_white": {
+    "criteria": {
+      "oak_chair_classic_white": "2025-08-04 00:49:24 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_chair_classic_yellow": {
+    "criteria": {
+      "oak_chair_classic_yellow": "2025-08-04 00:49:26 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/yellow_curtain": {
+    "criteria": {
+      "has_wool": "2025-08-04 00:49:26 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/yellow_lamp": {
+    "criteria": {
+      "has_wool": "2025-08-04 00:49:26 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/yellow_stool": {
+    "criteria": {
+      "has_wool": "2025-08-04 00:49:26 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/yellow_shower_towel": {
+    "criteria": {
+      "has_yellow_wool": "2025-08-04 00:49:26 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/yellow_sofa": {
+    "criteria": {
+      "has_wool": "2025-08-04 00:49:26 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/yellow_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-08-04 00:49:26 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_chair_classic_cyan": {
+    "criteria": {
+      "oak_chair_classic_cyan": "2025-08-04 00:49:30 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/cyan_curtain": {
+    "criteria": {
+      "has_wool": "2025-08-04 00:49:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet": {
+    "criteria": {
+      "has_cyan_wool": "2025-08-04 00:49:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed": {
+    "criteria": {
+      "has_cyan_wool": "2025-08-04 00:49:30 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/cyan_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-08-04 00:49:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_banner": {
+    "criteria": {
+      "has_cyan_wool": "2025-08-04 00:49:30 +0000"
     },
     "done": true
   },
@@ -7993,57 +7789,9 @@
     },
     "done": true
   },
-  "another_furniture:recipes/pink_curtain": {
-    "criteria": {
-      "has_wool": "2025-08-04 00:49:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/pink_carpet": {
-    "criteria": {
-      "has_pink_wool": "2025-08-04 00:49:55 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:dark_creator": {
-    "criteria": {
-      "dark_creator_0": "2025-08-04 01:03:14 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/orange_shower_towel": {
-    "criteria": {
-      "has_orange_wool": "2025-08-04 00:50:02 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/cyan_shower_towel": {
     "criteria": {
       "has_cyan_wool": "2025-08-04 00:49:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/pink_banner": {
-    "criteria": {
-      "has_pink_wool": "2025-08-04 00:49:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_carpet": {
-    "criteria": {
-      "has_orange_wool": "2025-08-04 00:50:02 +0000"
-    },
-    "done": true
-  },
-  "mapperbase:recipes/mapperbase_group/steel_rod": {
-    "criteria": {
-      "has_steel_ingot": "2025-08-04 00:11:03 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/purple_curtain": {
-    "criteria": {
-      "has_wool": "2025-08-04 00:49:56 +0000"
     },
     "done": true
   },
@@ -8059,15 +7807,51 @@
     },
     "done": true
   },
-  "another_furniture:recipes/black_curtain": {
+  "another_furniture:recipes/cyan_sofa": {
     "criteria": {
-      "has_wool": "2025-08-04 00:49:21 +0000"
+      "has_wool": "2025-08-04 00:49:30 +0000"
     },
     "done": true
   },
-  "pfm:recipes/furniture/oak_chair_classic_white": {
+  "another_furniture:recipes/pink_sofa": {
     "criteria": {
-      "oak_chair_classic_white": "2025-08-04 00:49:24 +0000"
+      "has_wool": "2025-08-04 00:49:55 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/pink_shower_towel": {
+    "criteria": {
+      "has_pink_wool": "2025-08-04 00:49:55 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_chair_classic_pink": {
+    "criteria": {
+      "oak_chair_classic_pink": "2025-08-04 00:49:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2025-08-04 00:49:55 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/pink_curtain": {
+    "criteria": {
+      "has_wool": "2025-08-04 00:49:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2025-08-04 00:49:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2025-08-04 00:49:55 +0000"
     },
     "done": true
   },
@@ -8077,21 +7861,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/acacia_planks": {
-    "criteria": {
-      "has_log": "2025-08-04 01:03:18 +0000"
-    },
-    "done": true
-  },
   "another_furniture:recipes/pink_tall_stool": {
     "criteria": {
       "has_wool": "2025-08-04 00:49:55 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/magenta_sofa": {
-    "criteria": {
-      "has_wool": "2025-08-04 00:50:00 +0000"
     },
     "done": true
   },
@@ -8101,15 +7873,243 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_bed": {
+    "criteria": {
+      "has_purple_wool": "2025-08-04 00:49:56 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/purple_stool": {
+    "criteria": {
+      "has_wool": "2025-08-04 00:49:56 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/purple_sofa": {
+    "criteria": {
+      "has_wool": "2025-08-04 00:49:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet": {
+    "criteria": {
+      "has_purple_wool": "2025-08-04 00:49:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_purple_wool": "2025-08-04 00:49:56 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/purple_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-08-04 00:49:56 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/purple_lamp": {
+    "criteria": {
+      "has_wool": "2025-08-04 00:49:56 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/purple_shower_towel": {
+    "criteria": {
+      "has_purple_wool": "2025-08-04 00:49:56 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_chair_classic_purple": {
+    "criteria": {
+      "oak_chair_classic_purple": "2025-08-04 00:49:56 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/purple_curtain": {
+    "criteria": {
+      "has_wool": "2025-08-04 00:49:56 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/magenta_shower_towel": {
+    "criteria": {
+      "has_magenta_wool": "2025-08-04 00:50:00 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_chair_classic_magenta": {
+    "criteria": {
+      "oak_chair_classic_magenta": "2025-08-04 00:50:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_bed": {
+    "criteria": {
+      "has_magenta_wool": "2025-08-04 00:50:00 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/magenta_stool": {
+    "criteria": {
+      "has_wool": "2025-08-04 00:50:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_carpet": {
+    "criteria": {
+      "has_magenta_wool": "2025-08-04 00:50:00 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/magenta_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-08-04 00:50:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_banner": {
+    "criteria": {
+      "has_magenta_wool": "2025-08-04 00:50:00 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/magenta_lamp": {
+    "criteria": {
+      "has_wool": "2025-08-04 00:50:00 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/magenta_sofa": {
+    "criteria": {
+      "has_wool": "2025-08-04 00:50:00 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/magenta_curtain": {
     "criteria": {
       "has_wool": "2025-08-04 00:50:00 +0000"
     },
     "done": true
   },
-  "another_furniture:recipes/cyan_sofa": {
+  "minecraft:recipes/decorations/orange_bed": {
     "criteria": {
-      "has_wool": "2025-08-04 00:49:30 +0000"
+      "has_orange_wool": "2025-08-04 00:50:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_banner": {
+    "criteria": {
+      "has_orange_wool": "2025-08-04 00:50:02 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/orange_stool": {
+    "criteria": {
+      "has_wool": "2025-08-04 00:50:02 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/orange_lamp": {
+    "criteria": {
+      "has_wool": "2025-08-04 00:50:02 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/orange_sofa": {
+    "criteria": {
+      "has_wool": "2025-08-04 00:50:02 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/orange_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-08-04 00:50:02 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/orange_curtain": {
+    "criteria": {
+      "has_wool": "2025-08-04 00:50:02 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_chair_classic_orange": {
+    "criteria": {
+      "oak_chair_classic_orange": "2025-08-04 00:50:02 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/orange_shower_towel": {
+    "criteria": {
+      "has_orange_wool": "2025-08-04 00:50:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_carpet": {
+    "criteria": {
+      "has_orange_wool": "2025-08-04 00:50:02 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/village_defender": {
+    "criteria": {
+      "coded_trigger": "2025-08-04 00:59:58 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_creator": {
+    "criteria": {
+      "dark_creator_0": "2025-08-04 01:03:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-08-04 01:03:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-08-04 01:03:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2025-08-04 01:03:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_wood": {
+    "criteria": {
+      "has_log": "2025-08-04 01:03:19 +0000"
+    },
+    "done": true
+  },
+  "illageandspillage:kill_magi": {
+    "criteria": {
+      "requirement": "2025-08-04 01:06:47 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2025-08-04 01:08:24 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:squireofthe_dark_lord": {
+    "criteria": {
+      "squireofthe_dark_lord_4": "2025-08-04 01:08:25 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/vanishing": {
+    "criteria": {
+      "coded_trigger": "2025-08-04 01:09:22 +0000"
     },
     "done": true
   },

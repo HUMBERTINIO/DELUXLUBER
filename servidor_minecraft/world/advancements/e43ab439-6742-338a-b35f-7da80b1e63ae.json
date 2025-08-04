@@ -8388,6 +8388,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/master_siphoner": {
+    "criteria": {
+      "coded_trigger": "2025-08-04 01:22:06 +0000"
+    },
+    "done": true
+  },
   "wither_rework:nether/obtain_nether_star": {
     "criteria": {
       "requirement": "2025-08-04 00:05:56 +0000"
