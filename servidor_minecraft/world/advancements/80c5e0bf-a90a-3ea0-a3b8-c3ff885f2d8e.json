@@ -7337,11 +7337,13 @@
     },
     "done": true
   },
-  "tombstone:adventure/use_home": {
+  "adorabuild_structures:fireproof": {
     "criteria": {
-      "coded_trigger": "2025-08-03 23:24:43 +0000"
+      "blackstone_bastion_medium_1": "2025-08-03 23:11:08 +0000",
+      "blackstone_temple_small_1": "2025-08-03 23:10:41 +0000",
+      "blackstone_bastion_medium_2": "2025-08-03 23:54:51 +0000"
     },
-    "done": true
+    "done": false
   },
   "terramity:stone_mask_advancement": {
     "criteria": {
@@ -7349,9 +7351,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-08-03 23:14:47 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/chain_death": {
     "criteria": {
       "coded_trigger": "2025-08-03 23:23:08 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_home": {
+    "criteria": {
+      "coded_trigger": "2025-08-03 23:24:43 +0000"
     },
     "done": true
   },
@@ -7367,20 +7381,6 @@
     },
     "done": true
   },
-  "legendary_monsters:defeat_withered_abomination": {
-    "criteria": {
-      "abomination": "2025-08-03 23:55:52 +0000"
-    },
-    "done": true
-  },
-  "adorabuild_structures:fireproof": {
-    "criteria": {
-      "blackstone_bastion_medium_1": "2025-08-03 23:11:08 +0000",
-      "blackstone_temple_small_1": "2025-08-03 23:10:41 +0000",
-      "blackstone_bastion_medium_2": "2025-08-03 23:54:51 +0000"
-    },
-    "done": false
-  },
   "alexsmobs:alexsmobs/crocodile": {
     "criteria": {
       "killed_by": "2025-08-03 23:50:38 +0000"
@@ -7393,9 +7393,45 @@
     },
     "done": true
   },
-  "tombstone:adventure/funeral_theft": {
+  "legendary_monsters:defeat_withered_abomination": {
     "criteria": {
-      "coded_trigger": "2025-08-03 23:14:47 +0000"
+      "abomination": "2025-08-03 23:55:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-04 00:05:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-04 00:05:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-04 00:05:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-08-04 00:06:09 +0000"
+    },
+    "done": true
+  },
+  "enchantinginfuser:recipes/decorations/enchanting_infuser": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-04 00:05:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-04 00:05:31 +0000"
     },
     "done": true
   },
