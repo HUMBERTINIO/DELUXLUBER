@@ -6823,7 +6823,8 @@
       "illageandspillage:engineer": "2025-08-02 09:17:40 +0000",
       "illageandspillage:twittollager": "2025-08-04 01:02:12 +0000",
       "illageandspillage:igniter": "2025-08-02 09:17:42 +0000",
-      "illageandspillage:crocofang": "2025-08-02 09:16:29 +0000"
+      "illageandspillage:crocofang": "2025-08-02 09:16:29 +0000",
+      "illageandspillage:freakager": "2025-08-04 02:22:36 +0000"
     },
     "done": false
   },
@@ -8119,9 +8120,51 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-08-04 01:43:50 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/master_siphoner": {
     "criteria": {
       "coded_trigger": "2025-08-04 01:37:09 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sugar_cube": {
+    "criteria": {
+      "has_sugar": "2025-08-04 02:21:35 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_sugar": "2025-08-04 02:21:35 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/gravitite_helmet_repairing": {
+    "criteria": {
+      "has_gravitite_helmet": "2025-08-04 01:50:26 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-08-04 01:43:50 +0000"
+    },
+    "done": true
+  },
+  "aether:gravitite_armor": {
+    "criteria": {
+      "gravitite_helmet": "2025-08-04 01:50:26 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2025-08-04 02:11:59 +0000"
     },
     "done": true
   },

@@ -6506,6 +6506,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/stolen_magic": {
+    "criteria": {
+      "coded_trigger": "2025-08-04 01:43:09 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/advanced_refill_upgrade": {
     "criteria": {
       "has_refill_upgrade": "2025-08-04 00:08:47 +0000"
@@ -6581,6 +6587,12 @@
   "sophisticatedbackpacks:recipes/misc/advanced_pump_upgrade": {
     "criteria": {
       "has_pump_upgrade": "2025-08-04 00:08:47 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/magic_siphoner": {
+    "criteria": {
+      "coded_trigger": "2025-08-04 01:48:49 +0000"
     },
     "done": true
   },
