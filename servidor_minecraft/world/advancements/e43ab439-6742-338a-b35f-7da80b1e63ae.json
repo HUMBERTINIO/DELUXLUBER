@@ -8491,6 +8491,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2025-08-04 02:39:28 +0000"
+    },
+    "done": true
+  },
   "cnc:coyoteadvancement": {
     "criteria": {
       "coyoteadvancement_0": "2025-08-04 02:02:11 +0000"
