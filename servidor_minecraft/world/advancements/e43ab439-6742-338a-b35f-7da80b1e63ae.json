@@ -3043,6 +3043,7 @@
       "cataclysm:ender_guardian": "2025-07-28 05:59:47 +0000",
       "cataclysm:netherite_monstrosity": "2025-07-29 08:51:51 +0000",
       "cataclysm:the_harbinger": "2025-07-29 08:41:53 +0000",
+      "cataclysm:scylla": "2025-08-04 08:32:21 +0000",
       "cataclysm:ignis": "2025-07-26 08:47:11 +0000",
       "cataclysm:ancient_remnant": "2025-07-29 09:58:49 +0000"
     },
@@ -8525,6 +8526,7 @@
     "criteria": {
       "sand_house_medium_1": "2025-08-04 08:21:14 +0000",
       "sand_house_small_1": "2025-08-04 03:09:27 +0000",
+      "sand_pyramid_1": "2025-08-04 08:37:54 +0000",
       "oak_house_small_2": "2025-08-04 02:02:49 +0000"
     },
     "done": false
@@ -8607,17 +8609,53 @@
     },
     "done": true
   },
+  "cataclysm:kill_scylla": {
+    "criteria": {
+      "ignis": "2025-08-04 08:32:21 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_clawdian": {
+    "criteria": {
+      "endergolem": "2025-08-04 08:36:22 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/gravitite_leggings_repairing": {
+    "criteria": {
+      "has_gravitite_leggings": "2025-08-04 08:37:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2025-08-04 08:23:02 +0000"
     },
     "done": true
   },
+  "adorabuild_structures:suspiciously_dangerous": {
+    "criteria": {
+      "sand_pyramid_1": "2025-08-04 08:37:54 +0000"
+    },
+    "done": false
+  },
   "cataclysm:find_acropolis": {
     "criteria": {
       "acropolis": "2025-08-04 08:22:26 +0000"
     },
     "done": true
+  },
+  "call_of_yucutan:obtain_pepper_seeds": {
+    "criteria": {
+      "obtain_pepper_seeds_0": "2025-08-04 08:31:46 +0000"
+    },
+    "done": true
+  },
+  "aether:gravitite_armor": {
+    "criteria": {
+      "gravitite_leggings": "2025-08-04 08:37:32 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

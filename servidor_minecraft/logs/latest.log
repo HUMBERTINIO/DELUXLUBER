@@ -1028,3 +1028,251 @@ java.lang.ClassNotFoundException: xiroc.dungeoncrawl.dungeon.generator.DungeonGe
 [04Aug2025 08:26:22.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb has completed the challenge [Charm Collector]
 [04Aug2025 08:29:51.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> [name:"jefe", x:5395, y:241, z:-5085, dim:minecraft:overworld]
 [04Aug2025 08:30:04.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb has made the advancement [Why in the Sky?]
+[04Aug2025 08:31:23.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb has completed the challenge [The Calm after the Storm]
+[04Aug2025 08:31:46.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 has made the advancement [Spice Up Your Life]
+[04Aug2025 08:32:21.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 has completed the challenge [The Calm after the Storm]
+[04Aug2025 08:36:22.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 has made the advancement [Not so Shrimple Now]
+[04Aug2025 08:37:18.939] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:37:18.940] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:37:18.940] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:37:18.940] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:37:18.940] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:37:19.141] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:37:19.142] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:37:20.356] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:37:20.357] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:37:20.362] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:37:20.363] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:37:45.779] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:37:45.779] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:37:45.780] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:37:45.780] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:37:45.848] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:37:45.848] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:37:45.848] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:37:45.848] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:37:47.115] [Worker-Main-31/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=5417, y=-7, z=-4567}
+[04Aug2025 08:37:47.116] [Worker-Main-31/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=5417, y=-7, z=-4561}
+[04Aug2025 08:37:47.116] [Worker-Main-31/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=5422, y=-7, z=-4567}
+[04Aug2025 08:37:47.116] [Worker-Main-31/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=5422, y=-7, z=-4561}
+[04Aug2025 08:37:47.166] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:37:48.340] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=5379, y=3, z=-4551}
+[04Aug2025 08:37:59.384] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:37:59.385] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:37:59.385] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:37:59.386] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:38:14.688] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:38:14.693] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:38:14.693] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:38:14.694] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:38:14.694] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:38:57.741] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:38:57.745] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:38:57.745] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:38:57.746] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:38:57.746] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:39:01.818] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:39:01.818] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:39:01.818] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:39:01.819] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:39:09.899] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:39:09.899] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:39:09.899] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:39:09.900] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:39:11.593] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nightmare73lb moved wrongly!
+[04Aug2025 08:39:12.797] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:39:12.803] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:39:12.803] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:39:12.803] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:39:12.803] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:39:18.247] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:39:18.247] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:39:18.248] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:39:18.248] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:39:18.283] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:39:18.283] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:39:18.283] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:39:18.284] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:39:18.793] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:39:18.794] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:39:18.794] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:39:20.209] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:39:21.493] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:39:21.493] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:39:21.494] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:39:21.494] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:39:22.348] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:39:22.348] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:39:22.348] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:39:22.357] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:39:28.436] [Worker-Main-10/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/world/entity/AgeableMob$AgeableMobGroupData for class com/starfish_studios/naturalist/common/entity/Butterfly$ButterflyGroupData in classloader jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528 on thread Thread[Worker-Main-10,4,main]
+[04Aug2025 08:39:28.437] [Worker-Main-10/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+java.lang.ClassNotFoundException: net.minecraft.world.entity.AgeableMob$AgeableMobGroupData
+	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?]
+	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:97) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:48) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:26) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:32) ~[eventbus-6.0.5.jar%2352!/:6.0.5+6.0.5+master.eb8e549b]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at com.starfish_studios.naturalist.common.entity.Butterfly.m_6518_(Butterfly.java:191) ~[?:?]
+	at net.minecraftforge.event.ForgeEventFactory.onFinalizeSpawn(ForgeEventFactory.java:285) ~[?:?]
+	at net.minecraft.world.level.NaturalSpawner.m_220450_(NaturalSpawner.java:377) ~[?:?]
+	at net.minecraft.world.level.levelgen.NoiseBasedChunkGenerator.m_6929_(NoiseBasedChunkGenerator.java:453) ~[?:?]
+	at net.minecraft.world.level.chunk.ChunkStatus.m_196757_(ChunkStatus.java:140) ~[?:?]
+	at net.minecraft.world.level.chunk.ChunkStatus$SimpleGenerationTask.m_214024_(ChunkStatus.java:309) ~[?:?]
+	at net.minecraft.world.level.chunk.ChunkStatus.m_280308_(ChunkStatus.java:252) ~[?:?]
+	at net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$27(ChunkMap.java:643) ~[?:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$29(ChunkMap.java:634) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.level.ChunkTaskPriorityQueueSorter.m_143188_(ChunkTaskPriorityQueueSorter.java:62) ~[?:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[?:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[?:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[?:?]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1395) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[04Aug2025 08:39:45.734] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:39:45.734] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:39:45.735] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:39:45.735] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:39:45.896] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:39:45.896] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:39:45.897] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:39:45.897] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:39:45.897] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:39:55.997] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:39:55.997] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:39:55.998] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:39:56.675] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:39:56.676] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:39:56.676] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:39:57.156] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:39:59.372] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:39:59.372] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:39:59.373] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:39:59.373] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:40:06.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb has made the advancement [Oh Deer]
+[04Aug2025 08:40:10.896] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:40:10.896] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:40:10.897] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:40:10.897] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:40:12.592] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:40:12.592] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:40:12.592] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:40:12.593] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:40:13.809] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:40:13.810] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:40:13.810] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:40:13.810] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:40:13.810] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:40:15.939] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:40:16.065] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:40:16.065] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:40:16.066] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:40:16.067] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:41:12.754] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:41:12.754] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:41:12.754] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:41:12.755] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:41:12.755] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:41:14.523] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:41:14.523] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:41:14.524] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:41:14.524] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Aug2025 08:41:45.578] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:45.578] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:45.578] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:45.578] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:45.578] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:45.578] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:45.578] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:45.578] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:45.578] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:45.578] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:45.579] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:45.579] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:45.579] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:45.579] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:45.579] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:45.579] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:45.579] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:45.579] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:45.579] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:45.579] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:45.579] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:45.579] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:45.580] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:45.580] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:45.580] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:45.580] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:45.580] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:45.593] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:45.593] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:45.593] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:45.593] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:45.593] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:45.593] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:45.593] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:45.593] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:45.593] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:45.593] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:45.593] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:45.594] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:45.594] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:45.594] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:45.594] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:45.594] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:45.594] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:45.594] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:45.594] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:45.594] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:48.150] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:48.150] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:48.150] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:48.150] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:48.150] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:48.150] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:48.150] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:48.150] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:48.151] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:48.151] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:48.151] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:48.151] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:48.151] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:48.151] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:48.151] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:48.151] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:48.324] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:48.325] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:48.325] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:48.325] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:48.325] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:48.325] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:48.325] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:48.325] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:48.325] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:48.325] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:48.325] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:48.325] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:48.325] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:48.325] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:48.325] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:48.326] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:48.326] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:48.326] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Aug2025 08:41:58.050] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 

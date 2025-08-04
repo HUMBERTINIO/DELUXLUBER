@@ -4277,6 +4277,7 @@
       "cataclysm:ender_guardian": "2025-07-28 06:12:23 +0000",
       "cataclysm:netherite_monstrosity": "2025-07-29 06:40:53 +0000",
       "cataclysm:the_harbinger": "2025-07-29 08:42:53 +0000",
+      "cataclysm:scylla": "2025-08-04 08:31:23 +0000",
       "cataclysm:ignis": "2025-07-29 10:06:47 +0000",
       "cataclysm:ancient_remnant": "2025-07-29 10:00:30 +0000"
     },
@@ -8197,6 +8198,18 @@
   "born_in_chaos_v1:good_demoman": {
     "criteria": {
       "good_demoman_0": "2025-08-04 02:58:48 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_scylla": {
+    "criteria": {
+      "ignis": "2025-08-04 08:31:23 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_acropolis": {
+    "criteria": {
+      "acropolis": "2025-08-04 08:30:04 +0000"
     },
     "done": true
   },
