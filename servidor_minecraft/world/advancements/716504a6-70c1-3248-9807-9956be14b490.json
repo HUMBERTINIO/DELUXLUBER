@@ -6584,6 +6584,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
+    "criteria": {
+      "has_netherite_block": "2025-08-04 00:19:26 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/auto_blasting_upgrade": {
     "criteria": {
       "has_blasting_upgrade": "2025-08-04 00:08:47 +0000"

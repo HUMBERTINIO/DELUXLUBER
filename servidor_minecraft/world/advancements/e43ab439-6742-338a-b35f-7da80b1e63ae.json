@@ -6349,6 +6349,7 @@
       "illageandspillage:absorber": "2025-07-31 01:48:30 +0000",
       "illageandspillage:ragno": "2025-08-02 09:43:33 +0000",
       "illageandspillage:engineer": "2025-07-31 01:47:19 +0000",
+      "illageandspillage:twittollager": "2025-08-04 00:56:56 +0000",
       "illageandspillage:igniter": "2025-07-31 01:47:04 +0000",
       "illageandspillage:crocofang": "2025-08-02 09:18:24 +0000",
       "illageandspillage:freakager": "2025-08-02 09:43:00 +0000"
@@ -8363,6 +8364,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:hatman": {
+    "criteria": {
+      "hatman_0": "2025-08-04 00:48:45 +0000"
+    },
+    "done": false
+  },
   "sophisticatedbackpacks:recipes/misc/blasting_upgrade_from_smelting_upgrade": {
     "criteria": {
       "has_smelting_upgrade": "2025-08-04 00:09:56 +0000"
@@ -8384,6 +8391,12 @@
   "sophisticatedbackpacks:recipes/misc/smoking_upgrade_from_smelting_upgrade": {
     "criteria": {
       "has_smelting_upgrade": "2025-08-04 00:09:56 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/village_defender": {
+    "criteria": {
+      "coded_trigger": "2025-08-04 00:41:05 +0000"
     },
     "done": true
   },
